@@ -50,19 +50,26 @@ Based on the corrected evaluation audit logs (`evaluation_results_corrected.csv`
 | False_Belief | 380 | 46.58% | 0.520 |
 | Truth | 392 | 44.13% | 0.492 |
 
----
-## 📈 Figures
-
-## 📈 Figures
+-## 📈 Figures
 
 Diagnostic figures generated from the corrected evaluation logs are stored in the [`figures/`](./figures) directory:
 
-- [`fig1.png`](./figures/fig1.png) — accuracy across evaluation conditions (Truth, False Belief, Deception).
-- [`fig2.png`](./figures/fig2.png) — accuracy by morphosyntactic source configuration.
-- [`fig3.png`](./figures/fig3.png) — confusion matrix showing counts and row-normalized percentages.
-- [`fig4.png`](./figures/fig4.png) — precision, recall, and F1-score breakdown.
-- [`graphical_abstract.png`](./figures/graphical_abstract.png) — graphical abstract illustrating the study design for Turkish evidentiality and deception detection.
+### Figure 1 — Accuracy across evaluation conditions
+![Figure 1 — Accuracy across evaluation conditions](./figures/fig1.png)
 
+### Figure 2 — Accuracy by morphosyntactic source configuration
+![Figure 2 — Accuracy by morphosyntactic source configuration](./figures/fig2.png)
+
+### Figure 3 — Confusion matrix (counts and row-normalized percentages)
+![Figure 3 — Confusion matrix](./figures/fig3.png)
+
+### Figure 4 — Precision, Recall, and F1-score
+![Figure 4 — Precision, Recall, and F1-score](./figures/fig4.png)
+
+### Graphical Abstract
+![Graphical abstract](./figures/graphical_abstract.png)
+
+---
 ## 🔬 Key Conclusions
 
 1. **Extreme evidential sensitivity.** The model reaches near-ceiling performance on indirect reported lies (`L_Ind_TR`: 98.96% accuracy, F1 0.995) but collapses on direct false belief (`FB_Dir_TR`: 1.04% accuracy), a range of almost 98 percentage points across conditions.
