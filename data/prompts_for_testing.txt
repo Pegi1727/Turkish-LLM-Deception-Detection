@@ -1,0 +1,8063 @@
+Prompt 1
+Subject_EN: Ali is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ali evde.
+Mapped_Label: Truthful
+
+Prompt 2
+Subject_EN: Ali is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 3
+Subject_EN: Ali is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ali evde değil.
+Mapped_Label: Deceptive
+
+Prompt 4
+Subject_EN: Ali is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ali evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 5
+Subject_EN: Ali is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ali işte.
+Mapped_Label: Truthful
+
+Prompt 6
+Subject_EN: Ali is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali işteymiş.
+Mapped_Label: Truthful
+
+Prompt 7
+Subject_EN: Ali is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ali işte değil.
+Mapped_Label: Deceptive
+
+Prompt 8
+Subject_EN: Ali is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ali işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 9
+Subject_EN: Ali is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ali parkta.
+Mapped_Label: Truthful
+
+Prompt 10
+Subject_EN: Ali is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali parktaymış.
+Mapped_Label: Truthful
+
+Prompt 11
+Subject_EN: Ali is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ali parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 12
+Subject_EN: Ali is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ali parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 13
+Subject_EN: Ali is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ali kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 14
+Subject_EN: Ali is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 15
+Subject_EN: Ali is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ali kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 16
+Subject_EN: Ali is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ali kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 17
+Subject_EN: Ali is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ali hastanede.
+Mapped_Label: Truthful
+
+Prompt 18
+Subject_EN: Ali is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 19
+Subject_EN: Ali is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ali hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 20
+Subject_EN: Ali is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ali hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 21
+Subject_EN: Ayşe is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe evde.
+Mapped_Label: Truthful
+
+Prompt 22
+Subject_EN: Ayşe is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 23
+Subject_EN: Ayşe is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe evde değil.
+Mapped_Label: Deceptive
+
+Prompt 24
+Subject_EN: Ayşe is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 25
+Subject_EN: Ayşe is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe işte.
+Mapped_Label: Truthful
+
+Prompt 26
+Subject_EN: Ayşe is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe işteymiş.
+Mapped_Label: Truthful
+
+Prompt 27
+Subject_EN: Ayşe is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe işte değil.
+Mapped_Label: Deceptive
+
+Prompt 28
+Subject_EN: Ayşe is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 29
+Subject_EN: Ayşe is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe parkta.
+Mapped_Label: Truthful
+
+Prompt 30
+Subject_EN: Ayşe is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe parktaymış.
+Mapped_Label: Truthful
+
+Prompt 31
+Subject_EN: Ayşe is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 32
+Subject_EN: Ayşe is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 33
+Subject_EN: Ayşe is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 34
+Subject_EN: Ayşe is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 35
+Subject_EN: Ayşe is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 36
+Subject_EN: Ayşe is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 37
+Subject_EN: Ayşe is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe hastanede.
+Mapped_Label: Truthful
+
+Prompt 38
+Subject_EN: Ayşe is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 39
+Subject_EN: Ayşe is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 40
+Subject_EN: Ayşe is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 41
+Subject_EN: Mehmet is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet evde.
+Mapped_Label: Truthful
+
+Prompt 42
+Subject_EN: Mehmet is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 43
+Subject_EN: Mehmet is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet evde değil.
+Mapped_Label: Deceptive
+
+Prompt 44
+Subject_EN: Mehmet is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 45
+Subject_EN: Mehmet is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet işte.
+Mapped_Label: Truthful
+
+Prompt 46
+Subject_EN: Mehmet is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet işteymiş.
+Mapped_Label: Truthful
+
+Prompt 47
+Subject_EN: Mehmet is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet işte değil.
+Mapped_Label: Deceptive
+
+Prompt 48
+Subject_EN: Mehmet is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 49
+Subject_EN: Mehmet is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet parkta.
+Mapped_Label: Truthful
+
+Prompt 50
+Subject_EN: Mehmet is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet parktaymış.
+Mapped_Label: Truthful
+
+Prompt 51
+Subject_EN: Mehmet is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 52
+Subject_EN: Mehmet is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 53
+Subject_EN: Mehmet is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 54
+Subject_EN: Mehmet is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 55
+Subject_EN: Mehmet is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 56
+Subject_EN: Mehmet is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 57
+Subject_EN: Mehmet is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet hastanede.
+Mapped_Label: Truthful
+
+Prompt 58
+Subject_EN: Mehmet is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 59
+Subject_EN: Mehmet is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 60
+Subject_EN: Mehmet is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 61
+Subject_EN: Zeynep is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep evde.
+Mapped_Label: Truthful
+
+Prompt 62
+Subject_EN: Zeynep is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 63
+Subject_EN: Zeynep is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep evde değil.
+Mapped_Label: Deceptive
+
+Prompt 64
+Subject_EN: Zeynep is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 65
+Subject_EN: Zeynep is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep işte.
+Mapped_Label: Truthful
+
+Prompt 66
+Subject_EN: Zeynep is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep işteymiş.
+Mapped_Label: Truthful
+
+Prompt 67
+Subject_EN: Zeynep is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep işte değil.
+Mapped_Label: Deceptive
+
+Prompt 68
+Subject_EN: Zeynep is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 69
+Subject_EN: Zeynep is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep parkta.
+Mapped_Label: Truthful
+
+Prompt 70
+Subject_EN: Zeynep is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep parktaymış.
+Mapped_Label: Truthful
+
+Prompt 71
+Subject_EN: Zeynep is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 72
+Subject_EN: Zeynep is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 73
+Subject_EN: Zeynep is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 74
+Subject_EN: Zeynep is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 75
+Subject_EN: Zeynep is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 76
+Subject_EN: Zeynep is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 77
+Subject_EN: Zeynep is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep hastanede.
+Mapped_Label: Truthful
+
+Prompt 78
+Subject_EN: Zeynep is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 79
+Subject_EN: Zeynep is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 80
+Subject_EN: Zeynep is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 81
+Subject_EN: Can is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Can evde.
+Mapped_Label: Truthful
+
+Prompt 82
+Subject_EN: Can is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Can evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 83
+Subject_EN: Can is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Can evde değil.
+Mapped_Label: Deceptive
+
+Prompt 84
+Subject_EN: Can is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Can evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 85
+Subject_EN: Can is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Can işte.
+Mapped_Label: Truthful
+
+Prompt 86
+Subject_EN: Can is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Can işteymiş.
+Mapped_Label: Truthful
+
+Prompt 87
+Subject_EN: Can is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Can işte değil.
+Mapped_Label: Deceptive
+
+Prompt 88
+Subject_EN: Can is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Can işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 89
+Subject_EN: Can is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Can parkta.
+Mapped_Label: Truthful
+
+Prompt 90
+Subject_EN: Can is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Can parktaymış.
+Mapped_Label: Truthful
+
+Prompt 91
+Subject_EN: Can is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Can parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 92
+Subject_EN: Can is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Can parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 93
+Subject_EN: Can is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Can kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 94
+Subject_EN: Can is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Can kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 95
+Subject_EN: Can is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Can kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 96
+Subject_EN: Can is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Can kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 97
+Subject_EN: Can is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Can hastanede.
+Mapped_Label: Truthful
+
+Prompt 98
+Subject_EN: Can is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Can hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 99
+Subject_EN: Can is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Can hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 100
+Subject_EN: Can is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Can hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 101
+Subject_EN: Elif is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Elif evde.
+Mapped_Label: Truthful
+
+Prompt 102
+Subject_EN: Elif is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 103
+Subject_EN: Elif is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Elif evde değil.
+Mapped_Label: Deceptive
+
+Prompt 104
+Subject_EN: Elif is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Elif evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 105
+Subject_EN: Elif is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Elif işte.
+Mapped_Label: Truthful
+
+Prompt 106
+Subject_EN: Elif is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif işteymiş.
+Mapped_Label: Truthful
+
+Prompt 107
+Subject_EN: Elif is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Elif işte değil.
+Mapped_Label: Deceptive
+
+Prompt 108
+Subject_EN: Elif is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Elif işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 109
+Subject_EN: Elif is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Elif parkta.
+Mapped_Label: Truthful
+
+Prompt 110
+Subject_EN: Elif is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif parktaymış.
+Mapped_Label: Truthful
+
+Prompt 111
+Subject_EN: Elif is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Elif parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 112
+Subject_EN: Elif is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Elif parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 113
+Subject_EN: Elif is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Elif kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 114
+Subject_EN: Elif is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 115
+Subject_EN: Elif is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Elif kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 116
+Subject_EN: Elif is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Elif kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 117
+Subject_EN: Elif is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Elif hastanede.
+Mapped_Label: Truthful
+
+Prompt 118
+Subject_EN: Elif is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 119
+Subject_EN: Elif is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Elif hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 120
+Subject_EN: Elif is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Elif hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 121
+Subject_EN: Emre is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Emre evde.
+Mapped_Label: Truthful
+
+Prompt 122
+Subject_EN: Emre is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 123
+Subject_EN: Emre is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Emre evde değil.
+Mapped_Label: Deceptive
+
+Prompt 124
+Subject_EN: Emre is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Emre evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 125
+Subject_EN: Emre is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Emre işte.
+Mapped_Label: Truthful
+
+Prompt 126
+Subject_EN: Emre is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre işteymiş.
+Mapped_Label: Truthful
+
+Prompt 127
+Subject_EN: Emre is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Emre işte değil.
+Mapped_Label: Deceptive
+
+Prompt 128
+Subject_EN: Emre is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Emre işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 129
+Subject_EN: Emre is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Emre parkta.
+Mapped_Label: Truthful
+
+Prompt 130
+Subject_EN: Emre is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre parktaymış.
+Mapped_Label: Truthful
+
+Prompt 131
+Subject_EN: Emre is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Emre parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 132
+Subject_EN: Emre is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Emre parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 133
+Subject_EN: Emre is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Emre kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 134
+Subject_EN: Emre is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 135
+Subject_EN: Emre is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Emre kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 136
+Subject_EN: Emre is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Emre kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 137
+Subject_EN: Emre is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Emre hastanede.
+Mapped_Label: Truthful
+
+Prompt 138
+Subject_EN: Emre is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 139
+Subject_EN: Emre is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Emre hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 140
+Subject_EN: Emre is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Emre hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 141
+Subject_EN: Defne is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Defne evde.
+Mapped_Label: Truthful
+
+Prompt 142
+Subject_EN: Defne is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 143
+Subject_EN: Defne is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Defne evde değil.
+Mapped_Label: Deceptive
+
+Prompt 144
+Subject_EN: Defne is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Defne evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 145
+Subject_EN: Defne is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Defne işte.
+Mapped_Label: Truthful
+
+Prompt 146
+Subject_EN: Defne is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne işteymiş.
+Mapped_Label: Truthful
+
+Prompt 147
+Subject_EN: Defne is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Defne işte değil.
+Mapped_Label: Deceptive
+
+Prompt 148
+Subject_EN: Defne is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Defne işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 149
+Subject_EN: Defne is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Defne parkta.
+Mapped_Label: Truthful
+
+Prompt 150
+Subject_EN: Defne is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne parktaymış.
+Mapped_Label: Truthful
+
+Prompt 151
+Subject_EN: Defne is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Defne parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 152
+Subject_EN: Defne is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Defne parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 153
+Subject_EN: Defne is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Defne kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 154
+Subject_EN: Defne is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 155
+Subject_EN: Defne is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Defne kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 156
+Subject_EN: Defne is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Defne kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 157
+Subject_EN: Defne is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Defne hastanede.
+Mapped_Label: Truthful
+
+Prompt 158
+Subject_EN: Defne is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 159
+Subject_EN: Defne is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Defne hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 160
+Subject_EN: Defne is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Defne hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 161
+Subject_EN: Mert is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mert evde.
+Mapped_Label: Truthful
+
+Prompt 162
+Subject_EN: Mert is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 163
+Subject_EN: Mert is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mert evde değil.
+Mapped_Label: Deceptive
+
+Prompt 164
+Subject_EN: Mert is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mert evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 165
+Subject_EN: Mert is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mert işte.
+Mapped_Label: Truthful
+
+Prompt 166
+Subject_EN: Mert is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert işteymiş.
+Mapped_Label: Truthful
+
+Prompt 167
+Subject_EN: Mert is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mert işte değil.
+Mapped_Label: Deceptive
+
+Prompt 168
+Subject_EN: Mert is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mert işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 169
+Subject_EN: Mert is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Mert parkta.
+Mapped_Label: Truthful
+
+Prompt 170
+Subject_EN: Mert is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert parktaymış.
+Mapped_Label: Truthful
+
+Prompt 171
+Subject_EN: Mert is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Mert parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 172
+Subject_EN: Mert is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Mert parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 173
+Subject_EN: Mert is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mert kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 174
+Subject_EN: Mert is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 175
+Subject_EN: Mert is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mert kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 176
+Subject_EN: Mert is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mert kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 177
+Subject_EN: Mert is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mert hastanede.
+Mapped_Label: Truthful
+
+Prompt 178
+Subject_EN: Mert is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 179
+Subject_EN: Mert is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mert hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 180
+Subject_EN: Mert is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mert hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 181
+Subject_EN: Ece is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ece evde.
+Mapped_Label: Truthful
+
+Prompt 182
+Subject_EN: Ece is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 183
+Subject_EN: Ece is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ece evde değil.
+Mapped_Label: Deceptive
+
+Prompt 184
+Subject_EN: Ece is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ece evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 185
+Subject_EN: Ece is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ece işte.
+Mapped_Label: Truthful
+
+Prompt 186
+Subject_EN: Ece is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece işteymiş.
+Mapped_Label: Truthful
+
+Prompt 187
+Subject_EN: Ece is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ece işte değil.
+Mapped_Label: Deceptive
+
+Prompt 188
+Subject_EN: Ece is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ece işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 189
+Subject_EN: Ece is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ece parkta.
+Mapped_Label: Truthful
+
+Prompt 190
+Subject_EN: Ece is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece parktaymış.
+Mapped_Label: Truthful
+
+Prompt 191
+Subject_EN: Ece is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ece parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 192
+Subject_EN: Ece is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ece parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 193
+Subject_EN: Ece is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ece kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 194
+Subject_EN: Ece is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 195
+Subject_EN: Ece is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ece kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 196
+Subject_EN: Ece is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ece kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 197
+Subject_EN: Ece is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ece hastanede.
+Mapped_Label: Truthful
+
+Prompt 198
+Subject_EN: Ece is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 199
+Subject_EN: Ece is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ece hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 200
+Subject_EN: Ece is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ece hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 201
+Subject_EN: Deniz is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz evde.
+Mapped_Label: Truthful
+
+Prompt 202
+Subject_EN: Deniz is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 203
+Subject_EN: Deniz is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz evde değil.
+Mapped_Label: Deceptive
+
+Prompt 204
+Subject_EN: Deniz is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 205
+Subject_EN: Deniz is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz işte.
+Mapped_Label: Truthful
+
+Prompt 206
+Subject_EN: Deniz is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz işteymiş.
+Mapped_Label: Truthful
+
+Prompt 207
+Subject_EN: Deniz is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz işte değil.
+Mapped_Label: Deceptive
+
+Prompt 208
+Subject_EN: Deniz is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 209
+Subject_EN: Deniz is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz parkta.
+Mapped_Label: Truthful
+
+Prompt 210
+Subject_EN: Deniz is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz parktaymış.
+Mapped_Label: Truthful
+
+Prompt 211
+Subject_EN: Deniz is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 212
+Subject_EN: Deniz is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 213
+Subject_EN: Deniz is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 214
+Subject_EN: Deniz is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 215
+Subject_EN: Deniz is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 216
+Subject_EN: Deniz is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 217
+Subject_EN: Deniz is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz hastanede.
+Mapped_Label: Truthful
+
+Prompt 218
+Subject_EN: Deniz is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 219
+Subject_EN: Deniz is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 220
+Subject_EN: Deniz is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 221
+Subject_EN: Burak is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Burak evde.
+Mapped_Label: Truthful
+
+Prompt 222
+Subject_EN: Burak is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 223
+Subject_EN: Burak is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Burak evde değil.
+Mapped_Label: Deceptive
+
+Prompt 224
+Subject_EN: Burak is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Burak evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 225
+Subject_EN: Burak is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Burak işte.
+Mapped_Label: Truthful
+
+Prompt 226
+Subject_EN: Burak is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak işteymiş.
+Mapped_Label: Truthful
+
+Prompt 227
+Subject_EN: Burak is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Burak işte değil.
+Mapped_Label: Deceptive
+
+Prompt 228
+Subject_EN: Burak is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Burak işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 229
+Subject_EN: Burak is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Burak parkta.
+Mapped_Label: Truthful
+
+Prompt 230
+Subject_EN: Burak is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak parktaymış.
+Mapped_Label: Truthful
+
+Prompt 231
+Subject_EN: Burak is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Burak parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 232
+Subject_EN: Burak is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Burak parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 233
+Subject_EN: Burak is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Burak kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 234
+Subject_EN: Burak is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 235
+Subject_EN: Burak is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Burak kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 236
+Subject_EN: Burak is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Burak kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 237
+Subject_EN: Burak is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Burak hastanede.
+Mapped_Label: Truthful
+
+Prompt 238
+Subject_EN: Burak is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 239
+Subject_EN: Burak is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Burak hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 240
+Subject_EN: Burak is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Burak hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 241
+Subject_EN: Selin is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Selin evde.
+Mapped_Label: Truthful
+
+Prompt 242
+Subject_EN: Selin is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 243
+Subject_EN: Selin is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Selin evde değil.
+Mapped_Label: Deceptive
+
+Prompt 244
+Subject_EN: Selin is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Selin evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 245
+Subject_EN: Selin is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Selin işte.
+Mapped_Label: Truthful
+
+Prompt 246
+Subject_EN: Selin is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin işteymiş.
+Mapped_Label: Truthful
+
+Prompt 247
+Subject_EN: Selin is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Selin işte değil.
+Mapped_Label: Deceptive
+
+Prompt 248
+Subject_EN: Selin is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Selin işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 249
+Subject_EN: Selin is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Selin parkta.
+Mapped_Label: Truthful
+
+Prompt 250
+Subject_EN: Selin is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin parktaymış.
+Mapped_Label: Truthful
+
+Prompt 251
+Subject_EN: Selin is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Selin parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 252
+Subject_EN: Selin is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Selin parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 253
+Subject_EN: Selin is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Selin kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 254
+Subject_EN: Selin is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 255
+Subject_EN: Selin is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Selin kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 256
+Subject_EN: Selin is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Selin kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 257
+Subject_EN: Selin is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Selin hastanede.
+Mapped_Label: Truthful
+
+Prompt 258
+Subject_EN: Selin is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 259
+Subject_EN: Selin is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Selin hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 260
+Subject_EN: Selin is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Selin hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 261
+Subject_EN: Cem is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Cem evde.
+Mapped_Label: Truthful
+
+Prompt 262
+Subject_EN: Cem is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 263
+Subject_EN: Cem is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Cem evde değil.
+Mapped_Label: Deceptive
+
+Prompt 264
+Subject_EN: Cem is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Cem evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 265
+Subject_EN: Cem is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Cem işte.
+Mapped_Label: Truthful
+
+Prompt 266
+Subject_EN: Cem is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem işteymiş.
+Mapped_Label: Truthful
+
+Prompt 267
+Subject_EN: Cem is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Cem işte değil.
+Mapped_Label: Deceptive
+
+Prompt 268
+Subject_EN: Cem is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Cem işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 269
+Subject_EN: Cem is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Cem parkta.
+Mapped_Label: Truthful
+
+Prompt 270
+Subject_EN: Cem is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem parktaymış.
+Mapped_Label: Truthful
+
+Prompt 271
+Subject_EN: Cem is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Cem parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 272
+Subject_EN: Cem is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Cem parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 273
+Subject_EN: Cem is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Cem kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 274
+Subject_EN: Cem is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 275
+Subject_EN: Cem is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Cem kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 276
+Subject_EN: Cem is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Cem kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 277
+Subject_EN: Cem is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Cem hastanede.
+Mapped_Label: Truthful
+
+Prompt 278
+Subject_EN: Cem is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 279
+Subject_EN: Cem is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Cem hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 280
+Subject_EN: Cem is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Cem hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 281
+Subject_EN: Derya is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Derya evde.
+Mapped_Label: Truthful
+
+Prompt 282
+Subject_EN: Derya is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 283
+Subject_EN: Derya is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Derya evde değil.
+Mapped_Label: Deceptive
+
+Prompt 284
+Subject_EN: Derya is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Derya evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 285
+Subject_EN: Derya is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Derya işte.
+Mapped_Label: Truthful
+
+Prompt 286
+Subject_EN: Derya is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya işteymiş.
+Mapped_Label: Truthful
+
+Prompt 287
+Subject_EN: Derya is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Derya işte değil.
+Mapped_Label: Deceptive
+
+Prompt 288
+Subject_EN: Derya is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Derya işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 289
+Subject_EN: Derya is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Derya parkta.
+Mapped_Label: Truthful
+
+Prompt 290
+Subject_EN: Derya is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya parktaymış.
+Mapped_Label: Truthful
+
+Prompt 291
+Subject_EN: Derya is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Derya parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 292
+Subject_EN: Derya is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Derya parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 293
+Subject_EN: Derya is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Derya kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 294
+Subject_EN: Derya is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 295
+Subject_EN: Derya is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Derya kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 296
+Subject_EN: Derya is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Derya kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 297
+Subject_EN: Derya is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Derya hastanede.
+Mapped_Label: Truthful
+
+Prompt 298
+Subject_EN: Derya is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 299
+Subject_EN: Derya is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Derya hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 300
+Subject_EN: Derya is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Derya hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 301
+Subject_EN: Arda is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Arda evde.
+Mapped_Label: Truthful
+
+Prompt 302
+Subject_EN: Arda is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 303
+Subject_EN: Arda is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Arda evde değil.
+Mapped_Label: Deceptive
+
+Prompt 304
+Subject_EN: Arda is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Arda evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 305
+Subject_EN: Arda is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Arda işte.
+Mapped_Label: Truthful
+
+Prompt 306
+Subject_EN: Arda is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda işteymiş.
+Mapped_Label: Truthful
+
+Prompt 307
+Subject_EN: Arda is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Arda işte değil.
+Mapped_Label: Deceptive
+
+Prompt 308
+Subject_EN: Arda is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Arda işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 309
+Subject_EN: Arda is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Arda parkta.
+Mapped_Label: Truthful
+
+Prompt 310
+Subject_EN: Arda is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda parktaymış.
+Mapped_Label: Truthful
+
+Prompt 311
+Subject_EN: Arda is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Arda parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 312
+Subject_EN: Arda is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Arda parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 313
+Subject_EN: Arda is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Arda kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 314
+Subject_EN: Arda is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 315
+Subject_EN: Arda is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Arda kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 316
+Subject_EN: Arda is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Arda kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 317
+Subject_EN: Arda is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Arda hastanede.
+Mapped_Label: Truthful
+
+Prompt 318
+Subject_EN: Arda is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 319
+Subject_EN: Arda is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Arda hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 320
+Subject_EN: Arda is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Arda hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 321
+Subject_EN: Esra is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Esra evde.
+Mapped_Label: Truthful
+
+Prompt 322
+Subject_EN: Esra is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 323
+Subject_EN: Esra is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Esra evde değil.
+Mapped_Label: Deceptive
+
+Prompt 324
+Subject_EN: Esra is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Esra evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 325
+Subject_EN: Esra is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Esra işte.
+Mapped_Label: Truthful
+
+Prompt 326
+Subject_EN: Esra is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra işteymiş.
+Mapped_Label: Truthful
+
+Prompt 327
+Subject_EN: Esra is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Esra işte değil.
+Mapped_Label: Deceptive
+
+Prompt 328
+Subject_EN: Esra is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Esra işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 329
+Subject_EN: Esra is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Esra parkta.
+Mapped_Label: Truthful
+
+Prompt 330
+Subject_EN: Esra is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra parktaymış.
+Mapped_Label: Truthful
+
+Prompt 331
+Subject_EN: Esra is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Esra parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 332
+Subject_EN: Esra is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Esra parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 333
+Subject_EN: Esra is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Esra kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 334
+Subject_EN: Esra is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 335
+Subject_EN: Esra is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Esra kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 336
+Subject_EN: Esra is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Esra kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 337
+Subject_EN: Esra is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Esra hastanede.
+Mapped_Label: Truthful
+
+Prompt 338
+Subject_EN: Esra is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 339
+Subject_EN: Esra is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Esra hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 340
+Subject_EN: Esra is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Esra hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 341
+Subject_EN: Kerem is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem evde.
+Mapped_Label: Truthful
+
+Prompt 342
+Subject_EN: Kerem is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 343
+Subject_EN: Kerem is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem evde değil.
+Mapped_Label: Deceptive
+
+Prompt 344
+Subject_EN: Kerem is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 345
+Subject_EN: Kerem is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem işte.
+Mapped_Label: Truthful
+
+Prompt 346
+Subject_EN: Kerem is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem işteymiş.
+Mapped_Label: Truthful
+
+Prompt 347
+Subject_EN: Kerem is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem işte değil.
+Mapped_Label: Deceptive
+
+Prompt 348
+Subject_EN: Kerem is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 349
+Subject_EN: Kerem is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem parkta.
+Mapped_Label: Truthful
+
+Prompt 350
+Subject_EN: Kerem is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem parktaymış.
+Mapped_Label: Truthful
+
+Prompt 351
+Subject_EN: Kerem is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 352
+Subject_EN: Kerem is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 353
+Subject_EN: Kerem is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 354
+Subject_EN: Kerem is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 355
+Subject_EN: Kerem is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 356
+Subject_EN: Kerem is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 357
+Subject_EN: Kerem is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem hastanede.
+Mapped_Label: Truthful
+
+Prompt 358
+Subject_EN: Kerem is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 359
+Subject_EN: Kerem is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 360
+Subject_EN: Kerem is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 361
+Subject_EN: Aylin is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin evde.
+Mapped_Label: Truthful
+
+Prompt 362
+Subject_EN: Aylin is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 363
+Subject_EN: Aylin is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin evde değil.
+Mapped_Label: Deceptive
+
+Prompt 364
+Subject_EN: Aylin is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 365
+Subject_EN: Aylin is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin işte.
+Mapped_Label: Truthful
+
+Prompt 366
+Subject_EN: Aylin is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin işteymiş.
+Mapped_Label: Truthful
+
+Prompt 367
+Subject_EN: Aylin is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin işte değil.
+Mapped_Label: Deceptive
+
+Prompt 368
+Subject_EN: Aylin is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 369
+Subject_EN: Aylin is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin parkta.
+Mapped_Label: Truthful
+
+Prompt 370
+Subject_EN: Aylin is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin parktaymış.
+Mapped_Label: Truthful
+
+Prompt 371
+Subject_EN: Aylin is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 372
+Subject_EN: Aylin is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 373
+Subject_EN: Aylin is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 374
+Subject_EN: Aylin is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 375
+Subject_EN: Aylin is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 376
+Subject_EN: Aylin is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 377
+Subject_EN: Aylin is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin hastanede.
+Mapped_Label: Truthful
+
+Prompt 378
+Subject_EN: Aylin is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 379
+Subject_EN: Aylin is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 380
+Subject_EN: Aylin is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 381
+Subject_EN: Okan is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Okan evde.
+Mapped_Label: Truthful
+
+Prompt 382
+Subject_EN: Okan is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 383
+Subject_EN: Okan is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Okan evde değil.
+Mapped_Label: Deceptive
+
+Prompt 384
+Subject_EN: Okan is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Okan evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 385
+Subject_EN: Okan is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Okan işte.
+Mapped_Label: Truthful
+
+Prompt 386
+Subject_EN: Okan is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan işteymiş.
+Mapped_Label: Truthful
+
+Prompt 387
+Subject_EN: Okan is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Okan işte değil.
+Mapped_Label: Deceptive
+
+Prompt 388
+Subject_EN: Okan is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Okan işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 389
+Subject_EN: Okan is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Okan parkta.
+Mapped_Label: Truthful
+
+Prompt 390
+Subject_EN: Okan is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan parktaymış.
+Mapped_Label: Truthful
+
+Prompt 391
+Subject_EN: Okan is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Okan parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 392
+Subject_EN: Okan is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Okan parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 393
+Subject_EN: Okan is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Okan kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 394
+Subject_EN: Okan is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 395
+Subject_EN: Okan is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Okan kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 396
+Subject_EN: Okan is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Okan kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 397
+Subject_EN: Okan is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Okan hastanede.
+Mapped_Label: Truthful
+
+Prompt 398
+Subject_EN: Okan is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 399
+Subject_EN: Okan is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Okan hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 400
+Subject_EN: Okan is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Okan hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 401
+Subject_EN: Seda is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Seda evde.
+Mapped_Label: Truthful
+
+Prompt 402
+Subject_EN: Seda is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 403
+Subject_EN: Seda is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Seda evde değil.
+Mapped_Label: Deceptive
+
+Prompt 404
+Subject_EN: Seda is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Seda evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 405
+Subject_EN: Seda is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Seda işte.
+Mapped_Label: Truthful
+
+Prompt 406
+Subject_EN: Seda is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda işteymiş.
+Mapped_Label: Truthful
+
+Prompt 407
+Subject_EN: Seda is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Seda işte değil.
+Mapped_Label: Deceptive
+
+Prompt 408
+Subject_EN: Seda is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Seda işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 409
+Subject_EN: Seda is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Seda parkta.
+Mapped_Label: Truthful
+
+Prompt 410
+Subject_EN: Seda is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda parktaymış.
+Mapped_Label: Truthful
+
+Prompt 411
+Subject_EN: Seda is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Seda parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 412
+Subject_EN: Seda is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Seda parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 413
+Subject_EN: Seda is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Seda kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 414
+Subject_EN: Seda is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 415
+Subject_EN: Seda is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Seda kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 416
+Subject_EN: Seda is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Seda kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 417
+Subject_EN: Seda is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Seda hastanede.
+Mapped_Label: Truthful
+
+Prompt 418
+Subject_EN: Seda is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 419
+Subject_EN: Seda is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Seda hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 420
+Subject_EN: Seda is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Seda hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 421
+Subject_EN: Umut is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Umut evde.
+Mapped_Label: Truthful
+
+Prompt 422
+Subject_EN: Umut is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 423
+Subject_EN: Umut is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Umut evde değil.
+Mapped_Label: Deceptive
+
+Prompt 424
+Subject_EN: Umut is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Umut evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 425
+Subject_EN: Umut is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Umut işte.
+Mapped_Label: Truthful
+
+Prompt 426
+Subject_EN: Umut is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut işteymiş.
+Mapped_Label: Truthful
+
+Prompt 427
+Subject_EN: Umut is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Umut işte değil.
+Mapped_Label: Deceptive
+
+Prompt 428
+Subject_EN: Umut is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Umut işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 429
+Subject_EN: Umut is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Umut parkta.
+Mapped_Label: Truthful
+
+Prompt 430
+Subject_EN: Umut is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut parktaymış.
+Mapped_Label: Truthful
+
+Prompt 431
+Subject_EN: Umut is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Umut parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 432
+Subject_EN: Umut is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Umut parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 433
+Subject_EN: Umut is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Umut kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 434
+Subject_EN: Umut is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 435
+Subject_EN: Umut is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Umut kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 436
+Subject_EN: Umut is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Umut kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 437
+Subject_EN: Umut is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Umut hastanede.
+Mapped_Label: Truthful
+
+Prompt 438
+Subject_EN: Umut is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 439
+Subject_EN: Umut is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Umut hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 440
+Subject_EN: Umut is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Umut hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 441
+Subject_EN: Bora is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Bora evde.
+Mapped_Label: Truthful
+
+Prompt 442
+Subject_EN: Bora is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 443
+Subject_EN: Bora is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Bora evde değil.
+Mapped_Label: Deceptive
+
+Prompt 444
+Subject_EN: Bora is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Bora evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 445
+Subject_EN: Bora is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Bora işte.
+Mapped_Label: Truthful
+
+Prompt 446
+Subject_EN: Bora is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora işteymiş.
+Mapped_Label: Truthful
+
+Prompt 447
+Subject_EN: Bora is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Bora işte değil.
+Mapped_Label: Deceptive
+
+Prompt 448
+Subject_EN: Bora is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Bora işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 449
+Subject_EN: Bora is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Bora parkta.
+Mapped_Label: Truthful
+
+Prompt 450
+Subject_EN: Bora is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora parktaymış.
+Mapped_Label: Truthful
+
+Prompt 451
+Subject_EN: Bora is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Bora parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 452
+Subject_EN: Bora is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Bora parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 453
+Subject_EN: Bora is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Bora kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 454
+Subject_EN: Bora is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 455
+Subject_EN: Bora is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Bora kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 456
+Subject_EN: Bora is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Bora kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 457
+Subject_EN: Bora is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Bora hastanede.
+Mapped_Label: Truthful
+
+Prompt 458
+Subject_EN: Bora is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 459
+Subject_EN: Bora is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Bora hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 460
+Subject_EN: Bora is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Bora hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 461
+Subject_EN: İrem is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: İrem evde.
+Mapped_Label: Truthful
+
+Prompt 462
+Subject_EN: İrem is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 463
+Subject_EN: İrem is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: İrem evde değil.
+Mapped_Label: Deceptive
+
+Prompt 464
+Subject_EN: İrem is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: İrem evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 465
+Subject_EN: İrem is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: İrem işte.
+Mapped_Label: Truthful
+
+Prompt 466
+Subject_EN: İrem is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem işteymiş.
+Mapped_Label: Truthful
+
+Prompt 467
+Subject_EN: İrem is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: İrem işte değil.
+Mapped_Label: Deceptive
+
+Prompt 468
+Subject_EN: İrem is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: İrem işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 469
+Subject_EN: İrem is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: İrem parkta.
+Mapped_Label: Truthful
+
+Prompt 470
+Subject_EN: İrem is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem parktaymış.
+Mapped_Label: Truthful
+
+Prompt 471
+Subject_EN: İrem is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: İrem parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 472
+Subject_EN: İrem is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: İrem parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 473
+Subject_EN: İrem is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: İrem kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 474
+Subject_EN: İrem is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 475
+Subject_EN: İrem is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: İrem kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 476
+Subject_EN: İrem is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: İrem kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 477
+Subject_EN: İrem is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: İrem hastanede.
+Mapped_Label: Truthful
+
+Prompt 478
+Subject_EN: İrem is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 479
+Subject_EN: İrem is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: İrem hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 480
+Subject_EN: İrem is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: İrem hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 481
+Subject_EN: Onur is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Onur evde.
+Mapped_Label: Truthful
+
+Prompt 482
+Subject_EN: Onur is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 483
+Subject_EN: Onur is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Onur evde değil.
+Mapped_Label: Deceptive
+
+Prompt 484
+Subject_EN: Onur is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Onur evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 485
+Subject_EN: Onur is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Onur işte.
+Mapped_Label: Truthful
+
+Prompt 486
+Subject_EN: Onur is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur işteymiş.
+Mapped_Label: Truthful
+
+Prompt 487
+Subject_EN: Onur is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Onur işte değil.
+Mapped_Label: Deceptive
+
+Prompt 488
+Subject_EN: Onur is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Onur işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 489
+Subject_EN: Onur is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Onur parkta.
+Mapped_Label: Truthful
+
+Prompt 490
+Subject_EN: Onur is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur parktaymış.
+Mapped_Label: Truthful
+
+Prompt 491
+Subject_EN: Onur is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Onur parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 492
+Subject_EN: Onur is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Onur parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 493
+Subject_EN: Onur is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Onur kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 494
+Subject_EN: Onur is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 495
+Subject_EN: Onur is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Onur kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 496
+Subject_EN: Onur is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Onur kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 497
+Subject_EN: Onur is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Onur hastanede.
+Mapped_Label: Truthful
+
+Prompt 498
+Subject_EN: Onur is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 499
+Subject_EN: Onur is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Onur hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 500
+Subject_EN: Onur is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Onur hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 501
+Subject_EN: Gizem is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem evde.
+Mapped_Label: Truthful
+
+Prompt 502
+Subject_EN: Gizem is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 503
+Subject_EN: Gizem is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem evde değil.
+Mapped_Label: Deceptive
+
+Prompt 504
+Subject_EN: Gizem is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 505
+Subject_EN: Gizem is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem işte.
+Mapped_Label: Truthful
+
+Prompt 506
+Subject_EN: Gizem is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem işteymiş.
+Mapped_Label: Truthful
+
+Prompt 507
+Subject_EN: Gizem is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem işte değil.
+Mapped_Label: Deceptive
+
+Prompt 508
+Subject_EN: Gizem is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 509
+Subject_EN: Gizem is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem parkta.
+Mapped_Label: Truthful
+
+Prompt 510
+Subject_EN: Gizem is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem parktaymış.
+Mapped_Label: Truthful
+
+Prompt 511
+Subject_EN: Gizem is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 512
+Subject_EN: Gizem is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 513
+Subject_EN: Gizem is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 514
+Subject_EN: Gizem is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 515
+Subject_EN: Gizem is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 516
+Subject_EN: Gizem is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 517
+Subject_EN: Gizem is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem hastanede.
+Mapped_Label: Truthful
+
+Prompt 518
+Subject_EN: Gizem is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 519
+Subject_EN: Gizem is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 520
+Subject_EN: Gizem is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 521
+Subject_EN: Kaan is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan evde.
+Mapped_Label: Truthful
+
+Prompt 522
+Subject_EN: Kaan is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 523
+Subject_EN: Kaan is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan evde değil.
+Mapped_Label: Deceptive
+
+Prompt 524
+Subject_EN: Kaan is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 525
+Subject_EN: Kaan is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan işte.
+Mapped_Label: Truthful
+
+Prompt 526
+Subject_EN: Kaan is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan işteymiş.
+Mapped_Label: Truthful
+
+Prompt 527
+Subject_EN: Kaan is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan işte değil.
+Mapped_Label: Deceptive
+
+Prompt 528
+Subject_EN: Kaan is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 529
+Subject_EN: Kaan is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan parkta.
+Mapped_Label: Truthful
+
+Prompt 530
+Subject_EN: Kaan is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan parktaymış.
+Mapped_Label: Truthful
+
+Prompt 531
+Subject_EN: Kaan is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 532
+Subject_EN: Kaan is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 533
+Subject_EN: Kaan is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 534
+Subject_EN: Kaan is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 535
+Subject_EN: Kaan is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 536
+Subject_EN: Kaan is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 537
+Subject_EN: Kaan is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan hastanede.
+Mapped_Label: Truthful
+
+Prompt 538
+Subject_EN: Kaan is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 539
+Subject_EN: Kaan is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 540
+Subject_EN: Kaan is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 541
+Subject_EN: Aslı is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı evde.
+Mapped_Label: Truthful
+
+Prompt 542
+Subject_EN: Aslı is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 543
+Subject_EN: Aslı is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı evde değil.
+Mapped_Label: Deceptive
+
+Prompt 544
+Subject_EN: Aslı is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 545
+Subject_EN: Aslı is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı işte.
+Mapped_Label: Truthful
+
+Prompt 546
+Subject_EN: Aslı is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı işteymiş.
+Mapped_Label: Truthful
+
+Prompt 547
+Subject_EN: Aslı is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı işte değil.
+Mapped_Label: Deceptive
+
+Prompt 548
+Subject_EN: Aslı is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 549
+Subject_EN: Aslı is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı parkta.
+Mapped_Label: Truthful
+
+Prompt 550
+Subject_EN: Aslı is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı parktaymış.
+Mapped_Label: Truthful
+
+Prompt 551
+Subject_EN: Aslı is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 552
+Subject_EN: Aslı is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 553
+Subject_EN: Aslı is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 554
+Subject_EN: Aslı is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 555
+Subject_EN: Aslı is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 556
+Subject_EN: Aslı is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 557
+Subject_EN: Aslı is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı hastanede.
+Mapped_Label: Truthful
+
+Prompt 558
+Subject_EN: Aslı is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 559
+Subject_EN: Aslı is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 560
+Subject_EN: Aslı is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 561
+Subject_EN: Barış is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Barış evde.
+Mapped_Label: Truthful
+
+Prompt 562
+Subject_EN: Barış is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 563
+Subject_EN: Barış is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Barış evde değil.
+Mapped_Label: Deceptive
+
+Prompt 564
+Subject_EN: Barış is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Barış evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 565
+Subject_EN: Barış is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Barış işte.
+Mapped_Label: Truthful
+
+Prompt 566
+Subject_EN: Barış is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış işteymiş.
+Mapped_Label: Truthful
+
+Prompt 567
+Subject_EN: Barış is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Barış işte değil.
+Mapped_Label: Deceptive
+
+Prompt 568
+Subject_EN: Barış is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Barış işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 569
+Subject_EN: Barış is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Barış parkta.
+Mapped_Label: Truthful
+
+Prompt 570
+Subject_EN: Barış is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış parktaymış.
+Mapped_Label: Truthful
+
+Prompt 571
+Subject_EN: Barış is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Barış parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 572
+Subject_EN: Barış is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Barış parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 573
+Subject_EN: Barış is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Barış kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 574
+Subject_EN: Barış is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 575
+Subject_EN: Barış is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Barış kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 576
+Subject_EN: Barış is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Barış kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 577
+Subject_EN: Barış is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Barış hastanede.
+Mapped_Label: Truthful
+
+Prompt 578
+Subject_EN: Barış is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 579
+Subject_EN: Barış is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Barış hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 580
+Subject_EN: Barış is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Barış hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 581
+Subject_EN: Ceren is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren evde.
+Mapped_Label: Truthful
+
+Prompt 582
+Subject_EN: Ceren is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 583
+Subject_EN: Ceren is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren evde değil.
+Mapped_Label: Deceptive
+
+Prompt 584
+Subject_EN: Ceren is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 585
+Subject_EN: Ceren is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren işte.
+Mapped_Label: Truthful
+
+Prompt 586
+Subject_EN: Ceren is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren işteymiş.
+Mapped_Label: Truthful
+
+Prompt 587
+Subject_EN: Ceren is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren işte değil.
+Mapped_Label: Deceptive
+
+Prompt 588
+Subject_EN: Ceren is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 589
+Subject_EN: Ceren is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren parkta.
+Mapped_Label: Truthful
+
+Prompt 590
+Subject_EN: Ceren is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren parktaymış.
+Mapped_Label: Truthful
+
+Prompt 591
+Subject_EN: Ceren is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 592
+Subject_EN: Ceren is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 593
+Subject_EN: Ceren is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 594
+Subject_EN: Ceren is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 595
+Subject_EN: Ceren is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 596
+Subject_EN: Ceren is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 597
+Subject_EN: Ceren is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren hastanede.
+Mapped_Label: Truthful
+
+Prompt 598
+Subject_EN: Ceren is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 599
+Subject_EN: Ceren is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 600
+Subject_EN: Ceren is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 601
+Subject_EN: Tolga is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Tolga evde.
+Mapped_Label: Truthful
+
+Prompt 602
+Subject_EN: Tolga is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Tolga evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 603
+Subject_EN: Tolga is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Tolga evde değil.
+Mapped_Label: Deceptive
+
+Prompt 604
+Subject_EN: Tolga is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Tolga evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 605
+Subject_EN: Tolga is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Tolga işte.
+Mapped_Label: Truthful
+
+Prompt 606
+Subject_EN: Tolga is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Tolga işteymiş.
+Mapped_Label: Truthful
+
+Prompt 607
+Subject_EN: Tolga is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Tolga işte değil.
+Mapped_Label: Deceptive
+
+Prompt 608
+Subject_EN: Tolga is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Tolga işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 609
+Subject_EN: Tolga is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Tolga parkta.
+Mapped_Label: Truthful
+
+Prompt 610
+Subject_EN: Tolga is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Tolga parktaymış.
+Mapped_Label: Truthful
+
+Prompt 611
+Subject_EN: Tolga is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Tolga parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 612
+Subject_EN: Tolga is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Tolga parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 613
+Subject_EN: Tolga is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Tolga kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 614
+Subject_EN: Tolga is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Tolga kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 615
+Subject_EN: Tolga is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Tolga kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 616
+Subject_EN: Tolga is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Tolga kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 617
+Subject_EN: Tolga is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Tolga hastanede.
+Mapped_Label: Truthful
+
+Prompt 618
+Subject_EN: Tolga is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Tolga hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 619
+Subject_EN: Tolga is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Tolga hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 620
+Subject_EN: Tolga is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Tolga hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 621
+Subject_EN: Melis is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Melis evde.
+Mapped_Label: Truthful
+
+Prompt 622
+Subject_EN: Melis is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Melis evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 623
+Subject_EN: Melis is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Melis evde değil.
+Mapped_Label: Deceptive
+
+Prompt 624
+Subject_EN: Melis is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Melis evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 625
+Subject_EN: Melis is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Melis işte.
+Mapped_Label: Truthful
+
+Prompt 626
+Subject_EN: Melis is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Melis işteymiş.
+Mapped_Label: Truthful
+
+Prompt 627
+Subject_EN: Melis is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Melis işte değil.
+Mapped_Label: Deceptive
+
+Prompt 628
+Subject_EN: Melis is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Melis işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 629
+Subject_EN: Melis is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Melis parkta.
+Mapped_Label: Truthful
+
+Prompt 630
+Subject_EN: Melis is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Melis parktaymış.
+Mapped_Label: Truthful
+
+Prompt 631
+Subject_EN: Melis is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Melis parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 632
+Subject_EN: Melis is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Melis parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 633
+Subject_EN: Melis is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Melis kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 634
+Subject_EN: Melis is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Melis kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 635
+Subject_EN: Melis is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Melis kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 636
+Subject_EN: Melis is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Melis kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 637
+Subject_EN: Melis is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Melis hastanede.
+Mapped_Label: Truthful
+
+Prompt 638
+Subject_EN: Melis is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Melis hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 639
+Subject_EN: Melis is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Melis hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 640
+Subject_EN: Melis is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Melis hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 641
+Subject_EN: Eren is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Eren evde.
+Mapped_Label: Truthful
+
+Prompt 642
+Subject_EN: Eren is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Eren evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 643
+Subject_EN: Eren is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Eren evde değil.
+Mapped_Label: Deceptive
+
+Prompt 644
+Subject_EN: Eren is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Eren evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 645
+Subject_EN: Eren is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Eren işte.
+Mapped_Label: Truthful
+
+Prompt 646
+Subject_EN: Eren is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Eren işteymiş.
+Mapped_Label: Truthful
+
+Prompt 647
+Subject_EN: Eren is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Eren işte değil.
+Mapped_Label: Deceptive
+
+Prompt 648
+Subject_EN: Eren is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Eren işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 649
+Subject_EN: Eren is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Eren parkta.
+Mapped_Label: Truthful
+
+Prompt 650
+Subject_EN: Eren is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Eren parktaymış.
+Mapped_Label: Truthful
+
+Prompt 651
+Subject_EN: Eren is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Eren parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 652
+Subject_EN: Eren is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Eren parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 653
+Subject_EN: Eren is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Eren kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 654
+Subject_EN: Eren is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Eren kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 655
+Subject_EN: Eren is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Eren kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 656
+Subject_EN: Eren is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Eren kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 657
+Subject_EN: Eren is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Eren hastanede.
+Mapped_Label: Truthful
+
+Prompt 658
+Subject_EN: Eren is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Eren hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 659
+Subject_EN: Eren is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Eren hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 660
+Subject_EN: Eren is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Eren hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 661
+Subject_EN: Nisan is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Nisan evde.
+Mapped_Label: Truthful
+
+Prompt 662
+Subject_EN: Nisan is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Nisan evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 663
+Subject_EN: Nisan is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Nisan evde değil.
+Mapped_Label: Deceptive
+
+Prompt 664
+Subject_EN: Nisan is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Nisan evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 665
+Subject_EN: Nisan is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Nisan işte.
+Mapped_Label: Truthful
+
+Prompt 666
+Subject_EN: Nisan is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Nisan işteymiş.
+Mapped_Label: Truthful
+
+Prompt 667
+Subject_EN: Nisan is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Nisan işte değil.
+Mapped_Label: Deceptive
+
+Prompt 668
+Subject_EN: Nisan is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Nisan işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 669
+Subject_EN: Nisan is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Nisan parkta.
+Mapped_Label: Truthful
+
+Prompt 670
+Subject_EN: Nisan is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Nisan parktaymış.
+Mapped_Label: Truthful
+
+Prompt 671
+Subject_EN: Nisan is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Nisan parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 672
+Subject_EN: Nisan is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Nisan parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 673
+Subject_EN: Nisan is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Nisan kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 674
+Subject_EN: Nisan is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Nisan kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 675
+Subject_EN: Nisan is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Nisan kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 676
+Subject_EN: Nisan is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Nisan kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 677
+Subject_EN: Nisan is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Nisan hastanede.
+Mapped_Label: Truthful
+
+Prompt 678
+Subject_EN: Nisan is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Nisan hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 679
+Subject_EN: Nisan is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Nisan hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 680
+Subject_EN: Nisan is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Nisan hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 681
+Subject_EN: Serkan is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Serkan evde.
+Mapped_Label: Truthful
+
+Prompt 682
+Subject_EN: Serkan is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Serkan evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 683
+Subject_EN: Serkan is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Serkan evde değil.
+Mapped_Label: Deceptive
+
+Prompt 684
+Subject_EN: Serkan is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Serkan evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 685
+Subject_EN: Serkan is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Serkan işte.
+Mapped_Label: Truthful
+
+Prompt 686
+Subject_EN: Serkan is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Serkan işteymiş.
+Mapped_Label: Truthful
+
+Prompt 687
+Subject_EN: Serkan is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Serkan işte değil.
+Mapped_Label: Deceptive
+
+Prompt 688
+Subject_EN: Serkan is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Serkan işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 689
+Subject_EN: Serkan is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Serkan parkta.
+Mapped_Label: Truthful
+
+Prompt 690
+Subject_EN: Serkan is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Serkan parktaymış.
+Mapped_Label: Truthful
+
+Prompt 691
+Subject_EN: Serkan is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Serkan parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 692
+Subject_EN: Serkan is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Serkan parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 693
+Subject_EN: Serkan is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Serkan kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 694
+Subject_EN: Serkan is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Serkan kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 695
+Subject_EN: Serkan is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Serkan kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 696
+Subject_EN: Serkan is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Serkan kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 697
+Subject_EN: Serkan is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Serkan hastanede.
+Mapped_Label: Truthful
+
+Prompt 698
+Subject_EN: Serkan is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Serkan hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 699
+Subject_EN: Serkan is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Serkan hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 700
+Subject_EN: Serkan is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Serkan hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 701
+Subject_EN: Pelin is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Pelin evde.
+Mapped_Label: Truthful
+
+Prompt 702
+Subject_EN: Pelin is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Pelin evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 703
+Subject_EN: Pelin is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Pelin evde değil.
+Mapped_Label: Deceptive
+
+Prompt 704
+Subject_EN: Pelin is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Pelin evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 705
+Subject_EN: Pelin is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Pelin işte.
+Mapped_Label: Truthful
+
+Prompt 706
+Subject_EN: Pelin is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Pelin işteymiş.
+Mapped_Label: Truthful
+
+Prompt 707
+Subject_EN: Pelin is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Pelin işte değil.
+Mapped_Label: Deceptive
+
+Prompt 708
+Subject_EN: Pelin is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Pelin işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 709
+Subject_EN: Pelin is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Pelin parkta.
+Mapped_Label: Truthful
+
+Prompt 710
+Subject_EN: Pelin is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Pelin parktaymış.
+Mapped_Label: Truthful
+
+Prompt 711
+Subject_EN: Pelin is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Pelin parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 712
+Subject_EN: Pelin is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Pelin parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 713
+Subject_EN: Pelin is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Pelin kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 714
+Subject_EN: Pelin is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Pelin kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 715
+Subject_EN: Pelin is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Pelin kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 716
+Subject_EN: Pelin is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Pelin kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 717
+Subject_EN: Pelin is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Pelin hastanede.
+Mapped_Label: Truthful
+
+Prompt 718
+Subject_EN: Pelin is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Pelin hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 719
+Subject_EN: Pelin is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Pelin hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 720
+Subject_EN: Pelin is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Pelin hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 721
+Subject_EN: Fırat is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Fırat evde.
+Mapped_Label: Truthful
+
+Prompt 722
+Subject_EN: Fırat is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Fırat evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 723
+Subject_EN: Fırat is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Fırat evde değil.
+Mapped_Label: Deceptive
+
+Prompt 724
+Subject_EN: Fırat is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Fırat evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 725
+Subject_EN: Fırat is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Fırat işte.
+Mapped_Label: Truthful
+
+Prompt 726
+Subject_EN: Fırat is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Fırat işteymiş.
+Mapped_Label: Truthful
+
+Prompt 727
+Subject_EN: Fırat is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Fırat işte değil.
+Mapped_Label: Deceptive
+
+Prompt 728
+Subject_EN: Fırat is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Fırat işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 729
+Subject_EN: Fırat is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Fırat parkta.
+Mapped_Label: Truthful
+
+Prompt 730
+Subject_EN: Fırat is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Fırat parktaymış.
+Mapped_Label: Truthful
+
+Prompt 731
+Subject_EN: Fırat is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Fırat parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 732
+Subject_EN: Fırat is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Fırat parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 733
+Subject_EN: Fırat is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Fırat kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 734
+Subject_EN: Fırat is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Fırat kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 735
+Subject_EN: Fırat is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Fırat kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 736
+Subject_EN: Fırat is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Fırat kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 737
+Subject_EN: Fırat is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Fırat hastanede.
+Mapped_Label: Truthful
+
+Prompt 738
+Subject_EN: Fırat is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Fırat hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 739
+Subject_EN: Fırat is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Fırat hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 740
+Subject_EN: Fırat is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Fırat hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 741
+Subject_EN: Naz is at home.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Naz evde.
+Mapped_Label: Truthful
+
+Prompt 742
+Subject_EN: Naz is at home.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Naz evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 743
+Subject_EN: Naz is at home.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Naz evde değil.
+Mapped_Label: Deceptive
+
+Prompt 744
+Subject_EN: Naz is at home.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Naz evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 745
+Subject_EN: Naz is at work.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Naz işte.
+Mapped_Label: Truthful
+
+Prompt 746
+Subject_EN: Naz is at work.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Naz işteymiş.
+Mapped_Label: Truthful
+
+Prompt 747
+Subject_EN: Naz is at work.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Naz işte değil.
+Mapped_Label: Deceptive
+
+Prompt 748
+Subject_EN: Naz is at work.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Naz işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 749
+Subject_EN: Naz is in the park.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Naz parkta.
+Mapped_Label: Truthful
+
+Prompt 750
+Subject_EN: Naz is in the park.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Naz parktaymış.
+Mapped_Label: Truthful
+
+Prompt 751
+Subject_EN: Naz is in the park.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Naz parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 752
+Subject_EN: Naz is in the park.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Naz parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 753
+Subject_EN: Naz is in the library.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Naz kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 754
+Subject_EN: Naz is in the library.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Naz kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 755
+Subject_EN: Naz is in the library.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Naz kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 756
+Subject_EN: Naz is in the library.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Naz kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 757
+Subject_EN: Naz is in the hospital.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Naz hastanede.
+Mapped_Label: Truthful
+
+Prompt 758
+Subject_EN: Naz is in the hospital.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Naz hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 759
+Subject_EN: Naz is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Naz hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 760
+Subject_EN: Naz is in the hospital.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Naz hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 761
+Subject_EN: Levent is at home.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Levent evde.
+Mapped_Label: Truthful
+
+Prompt 762
+Subject_EN: Levent is at home.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Levent evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 763
+Subject_EN: Levent is at home.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Levent evde değil.
+Mapped_Label: Deceptive
+
+Prompt 764
+Subject_EN: Levent is at home.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Levent evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 765
+Subject_EN: Levent is at work.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Levent işte.
+Mapped_Label: Truthful
+
+Prompt 766
+Subject_EN: Levent is at work.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Levent işteymiş.
+Mapped_Label: Truthful
+
+Prompt 767
+Subject_EN: Levent is at work.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Levent işte değil.
+Mapped_Label: Deceptive
+
+Prompt 768
+Subject_EN: Levent is at work.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Levent işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 769
+Subject_EN: Levent is in the park.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Levent parkta.
+Mapped_Label: Truthful
+
+Prompt 770
+Subject_EN: Levent is in the park.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Levent parktaymış.
+Mapped_Label: Truthful
+
+Prompt 771
+Subject_EN: Levent is in the park.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Levent parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 772
+Subject_EN: Levent is in the park.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Levent parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 773
+Subject_EN: Levent is in the library.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Levent kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 774
+Subject_EN: Levent is in the library.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Levent kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 775
+Subject_EN: Levent is in the library.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Levent kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 776
+Subject_EN: Levent is in the library.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Levent kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 777
+Subject_EN: Levent is in the hospital.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Levent hastanede.
+Mapped_Label: Truthful
+
+Prompt 778
+Subject_EN: Levent is in the hospital.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Levent hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 779
+Subject_EN: Levent is in the hospital.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Levent hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 780
+Subject_EN: Levent is in the hospital.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Levent hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 781
+Subject_EN: Banu is at home.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Banu evde.
+Mapped_Label: Truthful
+
+Prompt 782
+Subject_EN: Banu is at home.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Banu evdeymiş.
+Mapped_Label: Truthful
+
+Prompt 783
+Subject_EN: Banu is at home.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Banu evde değil.
+Mapped_Label: Deceptive
+
+Prompt 784
+Subject_EN: Banu is at home.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Banu evde değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 785
+Subject_EN: Banu is at work.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Banu işte.
+Mapped_Label: Truthful
+
+Prompt 786
+Subject_EN: Banu is at work.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Banu işteymiş.
+Mapped_Label: Truthful
+
+Prompt 787
+Subject_EN: Banu is at work.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Banu işte değil.
+Mapped_Label: Deceptive
+
+Prompt 788
+Subject_EN: Banu is at work.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Banu işte değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 789
+Subject_EN: Banu is in the park.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Banu parkta.
+Mapped_Label: Truthful
+
+Prompt 790
+Subject_EN: Banu is in the park.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Banu parktaymış.
+Mapped_Label: Truthful
+
+Prompt 791
+Subject_EN: Banu is in the park.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Banu parkta değil.
+Mapped_Label: Deceptive
+
+Prompt 792
+Subject_EN: Banu is in the park.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Banu parkta değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 793
+Subject_EN: Banu is in the library.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Banu kütüphanede.
+Mapped_Label: Truthful
+
+Prompt 794
+Subject_EN: Banu is in the library.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Banu kütüphanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 795
+Subject_EN: Banu is in the library.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Banu kütüphanede değil.
+Mapped_Label: Deceptive
+
+Prompt 796
+Subject_EN: Banu is in the library.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Banu kütüphanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 797
+Subject_EN: Banu is in the hospital.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Banu hastanede.
+Mapped_Label: Truthful
+
+Prompt 798
+Subject_EN: Banu is in the hospital.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Banu hastanedeymiş.
+Mapped_Label: Truthful
+
+Prompt 799
+Subject_EN: Banu is in the hospital.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Banu hastanede değil.
+Mapped_Label: Deceptive
+
+Prompt 800
+Subject_EN: Banu is in the hospital.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Banu hastanede değilmiş.
+Mapped_Label: Deceptive
+
+Prompt 801
+Subject_EN: Ali feels happy.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ali mutlu.
+Mapped_Label: Truthful
+
+Prompt 802
+Subject_EN: Ali feels happy.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 803
+Subject_EN: Ali feels happy.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ali üzgün.
+Mapped_Label: Deceptive
+
+Prompt 804
+Subject_EN: Ali feels happy.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ali üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 805
+Subject_EN: Ali feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ali yorgun.
+Mapped_Label: Truthful
+
+Prompt 806
+Subject_EN: Ali feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 807
+Subject_EN: Ali feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ali dinç.
+Mapped_Label: Deceptive
+
+Prompt 808
+Subject_EN: Ali feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ali dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 809
+Subject_EN: Ali feels calm.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ali sakin.
+Mapped_Label: Truthful
+
+Prompt 810
+Subject_EN: Ali feels calm.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ali sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 811
+Subject_EN: Ali feels calm.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ali gergin.
+Mapped_Label: Deceptive
+
+Prompt 812
+Subject_EN: Ali feels calm.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ali gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 813
+Subject_EN: Ayşe feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe mutlu.
+Mapped_Label: Truthful
+
+Prompt 814
+Subject_EN: Ayşe feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 815
+Subject_EN: Ayşe feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe üzgün.
+Mapped_Label: Deceptive
+
+Prompt 816
+Subject_EN: Ayşe feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 817
+Subject_EN: Ayşe feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe yorgun.
+Mapped_Label: Truthful
+
+Prompt 818
+Subject_EN: Ayşe feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 819
+Subject_EN: Ayşe feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe dinç.
+Mapped_Label: Deceptive
+
+Prompt 820
+Subject_EN: Ayşe feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 821
+Subject_EN: Ayşe feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ayşe sakin.
+Mapped_Label: Truthful
+
+Prompt 822
+Subject_EN: Ayşe feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ayşe sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 823
+Subject_EN: Ayşe feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ayşe gergin.
+Mapped_Label: Deceptive
+
+Prompt 824
+Subject_EN: Ayşe feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ayşe gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 825
+Subject_EN: Mehmet feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet mutlu.
+Mapped_Label: Truthful
+
+Prompt 826
+Subject_EN: Mehmet feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 827
+Subject_EN: Mehmet feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet üzgün.
+Mapped_Label: Deceptive
+
+Prompt 828
+Subject_EN: Mehmet feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 829
+Subject_EN: Mehmet feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet yorgun.
+Mapped_Label: Truthful
+
+Prompt 830
+Subject_EN: Mehmet feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 831
+Subject_EN: Mehmet feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet dinç.
+Mapped_Label: Deceptive
+
+Prompt 832
+Subject_EN: Mehmet feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 833
+Subject_EN: Mehmet feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mehmet sakin.
+Mapped_Label: Truthful
+
+Prompt 834
+Subject_EN: Mehmet feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mehmet sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 835
+Subject_EN: Mehmet feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mehmet gergin.
+Mapped_Label: Deceptive
+
+Prompt 836
+Subject_EN: Mehmet feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mehmet gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 837
+Subject_EN: Zeynep feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep mutlu.
+Mapped_Label: Truthful
+
+Prompt 838
+Subject_EN: Zeynep feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 839
+Subject_EN: Zeynep feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep üzgün.
+Mapped_Label: Deceptive
+
+Prompt 840
+Subject_EN: Zeynep feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 841
+Subject_EN: Zeynep feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep yorgun.
+Mapped_Label: Truthful
+
+Prompt 842
+Subject_EN: Zeynep feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 843
+Subject_EN: Zeynep feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep dinç.
+Mapped_Label: Deceptive
+
+Prompt 844
+Subject_EN: Zeynep feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 845
+Subject_EN: Zeynep feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Zeynep sakin.
+Mapped_Label: Truthful
+
+Prompt 846
+Subject_EN: Zeynep feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Zeynep sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 847
+Subject_EN: Zeynep feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Zeynep gergin.
+Mapped_Label: Deceptive
+
+Prompt 848
+Subject_EN: Zeynep feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Zeynep gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 849
+Subject_EN: Can feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Can mutlu.
+Mapped_Label: Truthful
+
+Prompt 850
+Subject_EN: Can feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Can mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 851
+Subject_EN: Can feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Can üzgün.
+Mapped_Label: Deceptive
+
+Prompt 852
+Subject_EN: Can feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Can üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 853
+Subject_EN: Can feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Can yorgun.
+Mapped_Label: Truthful
+
+Prompt 854
+Subject_EN: Can feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Can yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 855
+Subject_EN: Can feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Can dinç.
+Mapped_Label: Deceptive
+
+Prompt 856
+Subject_EN: Can feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Can dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 857
+Subject_EN: Can feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Can sakin.
+Mapped_Label: Truthful
+
+Prompt 858
+Subject_EN: Can feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Can sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 859
+Subject_EN: Can feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Can gergin.
+Mapped_Label: Deceptive
+
+Prompt 860
+Subject_EN: Can feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Can gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 861
+Subject_EN: Elif feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Elif mutlu.
+Mapped_Label: Truthful
+
+Prompt 862
+Subject_EN: Elif feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 863
+Subject_EN: Elif feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Elif üzgün.
+Mapped_Label: Deceptive
+
+Prompt 864
+Subject_EN: Elif feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Elif üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 865
+Subject_EN: Elif feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Elif yorgun.
+Mapped_Label: Truthful
+
+Prompt 866
+Subject_EN: Elif feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 867
+Subject_EN: Elif feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Elif dinç.
+Mapped_Label: Deceptive
+
+Prompt 868
+Subject_EN: Elif feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Elif dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 869
+Subject_EN: Elif feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Elif sakin.
+Mapped_Label: Truthful
+
+Prompt 870
+Subject_EN: Elif feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Elif sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 871
+Subject_EN: Elif feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Elif gergin.
+Mapped_Label: Deceptive
+
+Prompt 872
+Subject_EN: Elif feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Elif gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 873
+Subject_EN: Emre feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Emre mutlu.
+Mapped_Label: Truthful
+
+Prompt 874
+Subject_EN: Emre feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 875
+Subject_EN: Emre feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Emre üzgün.
+Mapped_Label: Deceptive
+
+Prompt 876
+Subject_EN: Emre feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Emre üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 877
+Subject_EN: Emre feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Emre yorgun.
+Mapped_Label: Truthful
+
+Prompt 878
+Subject_EN: Emre feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 879
+Subject_EN: Emre feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Emre dinç.
+Mapped_Label: Deceptive
+
+Prompt 880
+Subject_EN: Emre feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Emre dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 881
+Subject_EN: Emre feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Emre sakin.
+Mapped_Label: Truthful
+
+Prompt 882
+Subject_EN: Emre feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Emre sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 883
+Subject_EN: Emre feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Emre gergin.
+Mapped_Label: Deceptive
+
+Prompt 884
+Subject_EN: Emre feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Emre gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 885
+Subject_EN: Defne feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Defne mutlu.
+Mapped_Label: Truthful
+
+Prompt 886
+Subject_EN: Defne feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 887
+Subject_EN: Defne feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Defne üzgün.
+Mapped_Label: Deceptive
+
+Prompt 888
+Subject_EN: Defne feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Defne üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 889
+Subject_EN: Defne feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Defne yorgun.
+Mapped_Label: Truthful
+
+Prompt 890
+Subject_EN: Defne feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 891
+Subject_EN: Defne feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Defne dinç.
+Mapped_Label: Deceptive
+
+Prompt 892
+Subject_EN: Defne feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Defne dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 893
+Subject_EN: Defne feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Defne sakin.
+Mapped_Label: Truthful
+
+Prompt 894
+Subject_EN: Defne feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Defne sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 895
+Subject_EN: Defne feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Defne gergin.
+Mapped_Label: Deceptive
+
+Prompt 896
+Subject_EN: Defne feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Defne gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 897
+Subject_EN: Mert feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Mert mutlu.
+Mapped_Label: Truthful
+
+Prompt 898
+Subject_EN: Mert feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 899
+Subject_EN: Mert feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Mert üzgün.
+Mapped_Label: Deceptive
+
+Prompt 900
+Subject_EN: Mert feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Mert üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 901
+Subject_EN: Mert feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Mert yorgun.
+Mapped_Label: Truthful
+
+Prompt 902
+Subject_EN: Mert feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 903
+Subject_EN: Mert feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Mert dinç.
+Mapped_Label: Deceptive
+
+Prompt 904
+Subject_EN: Mert feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Mert dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 905
+Subject_EN: Mert feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Mert sakin.
+Mapped_Label: Truthful
+
+Prompt 906
+Subject_EN: Mert feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Mert sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 907
+Subject_EN: Mert feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Mert gergin.
+Mapped_Label: Deceptive
+
+Prompt 908
+Subject_EN: Mert feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Mert gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 909
+Subject_EN: Ece feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ece mutlu.
+Mapped_Label: Truthful
+
+Prompt 910
+Subject_EN: Ece feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 911
+Subject_EN: Ece feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ece üzgün.
+Mapped_Label: Deceptive
+
+Prompt 912
+Subject_EN: Ece feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ece üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 913
+Subject_EN: Ece feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Ece yorgun.
+Mapped_Label: Truthful
+
+Prompt 914
+Subject_EN: Ece feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 915
+Subject_EN: Ece feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Ece dinç.
+Mapped_Label: Deceptive
+
+Prompt 916
+Subject_EN: Ece feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Ece dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 917
+Subject_EN: Ece feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Ece sakin.
+Mapped_Label: Truthful
+
+Prompt 918
+Subject_EN: Ece feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Ece sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 919
+Subject_EN: Ece feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Ece gergin.
+Mapped_Label: Deceptive
+
+Prompt 920
+Subject_EN: Ece feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Ece gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 921
+Subject_EN: Deniz feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz mutlu.
+Mapped_Label: Truthful
+
+Prompt 922
+Subject_EN: Deniz feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 923
+Subject_EN: Deniz feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz üzgün.
+Mapped_Label: Deceptive
+
+Prompt 924
+Subject_EN: Deniz feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 925
+Subject_EN: Deniz feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz yorgun.
+Mapped_Label: Truthful
+
+Prompt 926
+Subject_EN: Deniz feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 927
+Subject_EN: Deniz feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz dinç.
+Mapped_Label: Deceptive
+
+Prompt 928
+Subject_EN: Deniz feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 929
+Subject_EN: Deniz feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Deniz sakin.
+Mapped_Label: Truthful
+
+Prompt 930
+Subject_EN: Deniz feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Deniz sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 931
+Subject_EN: Deniz feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Deniz gergin.
+Mapped_Label: Deceptive
+
+Prompt 932
+Subject_EN: Deniz feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Deniz gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 933
+Subject_EN: Burak feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Burak mutlu.
+Mapped_Label: Truthful
+
+Prompt 934
+Subject_EN: Burak feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 935
+Subject_EN: Burak feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Burak üzgün.
+Mapped_Label: Deceptive
+
+Prompt 936
+Subject_EN: Burak feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Burak üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 937
+Subject_EN: Burak feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Burak yorgun.
+Mapped_Label: Truthful
+
+Prompt 938
+Subject_EN: Burak feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 939
+Subject_EN: Burak feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Burak dinç.
+Mapped_Label: Deceptive
+
+Prompt 940
+Subject_EN: Burak feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Burak dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 941
+Subject_EN: Burak feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Burak sakin.
+Mapped_Label: Truthful
+
+Prompt 942
+Subject_EN: Burak feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Burak sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 943
+Subject_EN: Burak feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Burak gergin.
+Mapped_Label: Deceptive
+
+Prompt 944
+Subject_EN: Burak feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Burak gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 945
+Subject_EN: Selin feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Selin mutlu.
+Mapped_Label: Truthful
+
+Prompt 946
+Subject_EN: Selin feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 947
+Subject_EN: Selin feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Selin üzgün.
+Mapped_Label: Deceptive
+
+Prompt 948
+Subject_EN: Selin feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Selin üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 949
+Subject_EN: Selin feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Selin yorgun.
+Mapped_Label: Truthful
+
+Prompt 950
+Subject_EN: Selin feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 951
+Subject_EN: Selin feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Selin dinç.
+Mapped_Label: Deceptive
+
+Prompt 952
+Subject_EN: Selin feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Selin dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 953
+Subject_EN: Selin feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Selin sakin.
+Mapped_Label: Truthful
+
+Prompt 954
+Subject_EN: Selin feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Selin sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 955
+Subject_EN: Selin feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Selin gergin.
+Mapped_Label: Deceptive
+
+Prompt 956
+Subject_EN: Selin feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Selin gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 957
+Subject_EN: Cem feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Cem mutlu.
+Mapped_Label: Truthful
+
+Prompt 958
+Subject_EN: Cem feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 959
+Subject_EN: Cem feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Cem üzgün.
+Mapped_Label: Deceptive
+
+Prompt 960
+Subject_EN: Cem feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Cem üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 961
+Subject_EN: Cem feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Cem yorgun.
+Mapped_Label: Truthful
+
+Prompt 962
+Subject_EN: Cem feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 963
+Subject_EN: Cem feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Cem dinç.
+Mapped_Label: Deceptive
+
+Prompt 964
+Subject_EN: Cem feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Cem dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 965
+Subject_EN: Cem feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Cem sakin.
+Mapped_Label: Truthful
+
+Prompt 966
+Subject_EN: Cem feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Cem sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 967
+Subject_EN: Cem feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Cem gergin.
+Mapped_Label: Deceptive
+
+Prompt 968
+Subject_EN: Cem feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Cem gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 969
+Subject_EN: Derya feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Derya mutlu.
+Mapped_Label: Truthful
+
+Prompt 970
+Subject_EN: Derya feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 971
+Subject_EN: Derya feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Derya üzgün.
+Mapped_Label: Deceptive
+
+Prompt 972
+Subject_EN: Derya feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Derya üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 973
+Subject_EN: Derya feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Derya yorgun.
+Mapped_Label: Truthful
+
+Prompt 974
+Subject_EN: Derya feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 975
+Subject_EN: Derya feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Derya dinç.
+Mapped_Label: Deceptive
+
+Prompt 976
+Subject_EN: Derya feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Derya dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 977
+Subject_EN: Derya feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Derya sakin.
+Mapped_Label: Truthful
+
+Prompt 978
+Subject_EN: Derya feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Derya sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 979
+Subject_EN: Derya feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Derya gergin.
+Mapped_Label: Deceptive
+
+Prompt 980
+Subject_EN: Derya feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Derya gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 981
+Subject_EN: Arda feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Arda mutlu.
+Mapped_Label: Truthful
+
+Prompt 982
+Subject_EN: Arda feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 983
+Subject_EN: Arda feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Arda üzgün.
+Mapped_Label: Deceptive
+
+Prompt 984
+Subject_EN: Arda feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Arda üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 985
+Subject_EN: Arda feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Arda yorgun.
+Mapped_Label: Truthful
+
+Prompt 986
+Subject_EN: Arda feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 987
+Subject_EN: Arda feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Arda dinç.
+Mapped_Label: Deceptive
+
+Prompt 988
+Subject_EN: Arda feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Arda dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 989
+Subject_EN: Arda feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Arda sakin.
+Mapped_Label: Truthful
+
+Prompt 990
+Subject_EN: Arda feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Arda sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 991
+Subject_EN: Arda feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Arda gergin.
+Mapped_Label: Deceptive
+
+Prompt 992
+Subject_EN: Arda feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Arda gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 993
+Subject_EN: Esra feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Esra mutlu.
+Mapped_Label: Truthful
+
+Prompt 994
+Subject_EN: Esra feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 995
+Subject_EN: Esra feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Esra üzgün.
+Mapped_Label: Deceptive
+
+Prompt 996
+Subject_EN: Esra feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Esra üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 997
+Subject_EN: Esra feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Esra yorgun.
+Mapped_Label: Truthful
+
+Prompt 998
+Subject_EN: Esra feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 999
+Subject_EN: Esra feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Esra dinç.
+Mapped_Label: Deceptive
+
+Prompt 1000
+Subject_EN: Esra feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Esra dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 1001
+Subject_EN: Esra feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Esra sakin.
+Mapped_Label: Truthful
+
+Prompt 1002
+Subject_EN: Esra feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Esra sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 1003
+Subject_EN: Esra feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Esra gergin.
+Mapped_Label: Deceptive
+
+Prompt 1004
+Subject_EN: Esra feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Esra gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 1005
+Subject_EN: Kerem feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem mutlu.
+Mapped_Label: Truthful
+
+Prompt 1006
+Subject_EN: Kerem feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 1007
+Subject_EN: Kerem feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem üzgün.
+Mapped_Label: Deceptive
+
+Prompt 1008
+Subject_EN: Kerem feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 1009
+Subject_EN: Kerem feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem yorgun.
+Mapped_Label: Truthful
+
+Prompt 1010
+Subject_EN: Kerem feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 1011
+Subject_EN: Kerem feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem dinç.
+Mapped_Label: Deceptive
+
+Prompt 1012
+Subject_EN: Kerem feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 1013
+Subject_EN: Kerem feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kerem sakin.
+Mapped_Label: Truthful
+
+Prompt 1014
+Subject_EN: Kerem feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kerem sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 1015
+Subject_EN: Kerem feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kerem gergin.
+Mapped_Label: Deceptive
+
+Prompt 1016
+Subject_EN: Kerem feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kerem gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 1017
+Subject_EN: Aylin feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin mutlu.
+Mapped_Label: Truthful
+
+Prompt 1018
+Subject_EN: Aylin feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 1019
+Subject_EN: Aylin feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin üzgün.
+Mapped_Label: Deceptive
+
+Prompt 1020
+Subject_EN: Aylin feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 1021
+Subject_EN: Aylin feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin yorgun.
+Mapped_Label: Truthful
+
+Prompt 1022
+Subject_EN: Aylin feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 1023
+Subject_EN: Aylin feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin dinç.
+Mapped_Label: Deceptive
+
+Prompt 1024
+Subject_EN: Aylin feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 1025
+Subject_EN: Aylin feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Aylin sakin.
+Mapped_Label: Truthful
+
+Prompt 1026
+Subject_EN: Aylin feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Aylin sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 1027
+Subject_EN: Aylin feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Aylin gergin.
+Mapped_Label: Deceptive
+
+Prompt 1028
+Subject_EN: Aylin feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Aylin gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 1029
+Subject_EN: Okan feels happy.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Okan mutlu.
+Mapped_Label: Truthful
+
+Prompt 1030
+Subject_EN: Okan feels happy.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan mutluymuş.
+Mapped_Label: Truthful
+
+Prompt 1031
+Subject_EN: Okan feels happy.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Okan üzgün.
+Mapped_Label: Deceptive
+
+Prompt 1032
+Subject_EN: Okan feels happy.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Okan üzgünmüş.
+Mapped_Label: Deceptive
+
+Prompt 1033
+Subject_EN: Okan feels tired.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Okan yorgun.
+Mapped_Label: Truthful
+
+Prompt 1034
+Subject_EN: Okan feels tired.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan yorgunmuş.
+Mapped_Label: Truthful
+
+Prompt 1035
+Subject_EN: Okan feels tired.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Okan dinç.
+Mapped_Label: Deceptive
+
+Prompt 1036
+Subject_EN: Okan feels tired.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Okan dinçmiş.
+Mapped_Label: Deceptive
+
+Prompt 1037
+Subject_EN: Okan feels calm.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Okan sakin.
+Mapped_Label: Truthful
+
+Prompt 1038
+Subject_EN: Okan feels calm.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Okan sakinmiş.
+Mapped_Label: Truthful
+
+Prompt 1039
+Subject_EN: Okan feels calm.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Okan gergin.
+Mapped_Label: Deceptive
+
+Prompt 1040
+Subject_EN: Okan feels calm.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Okan gerginmiş.
+Mapped_Label: Deceptive
+
+Prompt 1041
+Subject_EN: Seda is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Seda çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1042
+Subject_EN: Seda is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1043
+Subject_EN: Seda is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Seda dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1044
+Subject_EN: Seda is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Seda dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1045
+Subject_EN: Seda is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Seda yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1046
+Subject_EN: Seda is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1047
+Subject_EN: Seda is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Seda kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1048
+Subject_EN: Seda is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Seda kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1049
+Subject_EN: Seda is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Seda koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1050
+Subject_EN: Seda is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Seda koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1051
+Subject_EN: Seda is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Seda yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1052
+Subject_EN: Seda is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Seda yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1053
+Subject_EN: Umut is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Umut çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1054
+Subject_EN: Umut is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1055
+Subject_EN: Umut is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Umut dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1056
+Subject_EN: Umut is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Umut dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1057
+Subject_EN: Umut is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Umut yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1058
+Subject_EN: Umut is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1059
+Subject_EN: Umut is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Umut kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1060
+Subject_EN: Umut is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Umut kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1061
+Subject_EN: Umut is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Umut koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1062
+Subject_EN: Umut is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Umut koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1063
+Subject_EN: Umut is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Umut yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1064
+Subject_EN: Umut is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Umut yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1065
+Subject_EN: Bora is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Bora çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1066
+Subject_EN: Bora is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1067
+Subject_EN: Bora is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Bora dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1068
+Subject_EN: Bora is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Bora dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1069
+Subject_EN: Bora is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Bora yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1070
+Subject_EN: Bora is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1071
+Subject_EN: Bora is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Bora kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1072
+Subject_EN: Bora is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Bora kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1073
+Subject_EN: Bora is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Bora koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1074
+Subject_EN: Bora is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Bora koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1075
+Subject_EN: Bora is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Bora yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1076
+Subject_EN: Bora is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Bora yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1077
+Subject_EN: İrem is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: İrem çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1078
+Subject_EN: İrem is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1079
+Subject_EN: İrem is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: İrem dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1080
+Subject_EN: İrem is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: İrem dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1081
+Subject_EN: İrem is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: İrem yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1082
+Subject_EN: İrem is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1083
+Subject_EN: İrem is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: İrem kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1084
+Subject_EN: İrem is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: İrem kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1085
+Subject_EN: İrem is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: İrem koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1086
+Subject_EN: İrem is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: İrem koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1087
+Subject_EN: İrem is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: İrem yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1088
+Subject_EN: İrem is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: İrem yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1089
+Subject_EN: Onur is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Onur çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1090
+Subject_EN: Onur is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1091
+Subject_EN: Onur is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Onur dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1092
+Subject_EN: Onur is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Onur dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1093
+Subject_EN: Onur is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Onur yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1094
+Subject_EN: Onur is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1095
+Subject_EN: Onur is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Onur kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1096
+Subject_EN: Onur is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Onur kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1097
+Subject_EN: Onur is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Onur koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1098
+Subject_EN: Onur is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Onur koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1099
+Subject_EN: Onur is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Onur yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1100
+Subject_EN: Onur is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Onur yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1101
+Subject_EN: Gizem is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1102
+Subject_EN: Gizem is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1103
+Subject_EN: Gizem is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1104
+Subject_EN: Gizem is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1105
+Subject_EN: Gizem is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1106
+Subject_EN: Gizem is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1107
+Subject_EN: Gizem is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1108
+Subject_EN: Gizem is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1109
+Subject_EN: Gizem is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Gizem koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1110
+Subject_EN: Gizem is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Gizem koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1111
+Subject_EN: Gizem is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Gizem yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1112
+Subject_EN: Gizem is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Gizem yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1113
+Subject_EN: Kaan is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1114
+Subject_EN: Kaan is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1115
+Subject_EN: Kaan is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1116
+Subject_EN: Kaan is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1117
+Subject_EN: Kaan is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1118
+Subject_EN: Kaan is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1119
+Subject_EN: Kaan is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1120
+Subject_EN: Kaan is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1121
+Subject_EN: Kaan is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Kaan koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1122
+Subject_EN: Kaan is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Kaan koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1123
+Subject_EN: Kaan is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Kaan yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1124
+Subject_EN: Kaan is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Kaan yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1125
+Subject_EN: Aslı is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1126
+Subject_EN: Aslı is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1127
+Subject_EN: Aslı is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1128
+Subject_EN: Aslı is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1129
+Subject_EN: Aslı is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1130
+Subject_EN: Aslı is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1131
+Subject_EN: Aslı is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1132
+Subject_EN: Aslı is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1133
+Subject_EN: Aslı is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Aslı koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1134
+Subject_EN: Aslı is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Aslı koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1135
+Subject_EN: Aslı is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Aslı yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1136
+Subject_EN: Aslı is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Aslı yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1137
+Subject_EN: Barış is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Barış çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1138
+Subject_EN: Barış is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1139
+Subject_EN: Barış is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Barış dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1140
+Subject_EN: Barış is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Barış dinleniyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1141
+Subject_EN: Barış is cooking.
+Label_Type: False_Belief
+Source_Column: T_Dir_TR
+Sentence_TR: Barış yemek yapıyor.
+Mapped_Label: Truthful
+
+Prompt 1142
+Subject_EN: Barış is cooking.
+Label_Type: False_Belief
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış yemek yapıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1143
+Subject_EN: Barış is cooking.
+Label_Type: False_Belief
+Source_Column: L_Dir_TR
+Sentence_TR: Barış kitap okuyor.
+Mapped_Label: Deceptive
+
+Prompt 1144
+Subject_EN: Barış is cooking.
+Label_Type: False_Belief
+Source_Column: L_Ind_TR
+Sentence_TR: Barış kitap okuyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1145
+Subject_EN: Barış is running.
+Label_Type: Deception
+Source_Column: T_Dir_TR
+Sentence_TR: Barış koşuyor.
+Mapped_Label: Truthful
+
+Prompt 1146
+Subject_EN: Barış is running.
+Label_Type: Deception
+Source_Column: FB_Dir_TR
+Sentence_TR: Barış koşuyormuş.
+Mapped_Label: Truthful
+
+Prompt 1147
+Subject_EN: Barış is running.
+Label_Type: Deception
+Source_Column: L_Dir_TR
+Sentence_TR: Barış yürüyor.
+Mapped_Label: Deceptive
+
+Prompt 1148
+Subject_EN: Barış is running.
+Label_Type: Deception
+Source_Column: L_Ind_TR
+Sentence_TR: Barış yürüyormuş.
+Mapped_Label: Deceptive
+
+Prompt 1149
+Subject_EN: Ceren is working.
+Label_Type: Truth
+Source_Column: T_Dir_TR
+Sentence_TR: Ceren çalışıyor.
+Mapped_Label: Truthful
+
+Prompt 1150
+Subject_EN: Ceren is working.
+Label_Type: Truth
+Source_Column: FB_Dir_TR
+Sentence_TR: Ceren çalışıyormuş.
+Mapped_Label: Truthful
+
+Prompt 1151
+Subject_EN: Ceren is working.
+Label_Type: Truth
+Source_Column: L_Dir_TR
+Sentence_TR: Ceren dinleniyor.
+Mapped_Label: Deceptive
+
+Prompt 1152
+Subject_EN: Ceren is working.
+Label_Type: Truth
+Source_Column: L_Ind_TR
+Sentence_TR: Ceren dinleniyormuş.
+Mapped_Label: Deceptive
