@@ -53,13 +53,15 @@ Based on the corrected evaluation audit logs (`evaluation_results_corrected.csv`
 ---
 ## 📈 Figures
 
-Diagnostic figures generated from the corrected evaluation logs are stored in the root directory:
+## 📈 Figures
 
-- [`fig1.png`](./fig1.png) — accuracy across evaluation conditions (Truth, False Belief, Deception).
-- [`fig2.png`](./fig2.png) — accuracy by morphosyntactic source configuration.
-- [`fig3.png`](./fig3.png) — confusion matrix showing counts and row-normalized percentages.
-- [`fig4.png`](./fig4.png) — precision, recall, and F1-score breakdown.
-- [`graphical_abstract.png`](./graphical_abstract.png) — graphical abstract illustrating the study design for Turkish evidentiality and deception detection.
+Diagnostic figures generated from the corrected evaluation logs are stored in the [`figures/`](./figures) directory:
+
+- [`fig1.png`](./figures/fig1.png) — accuracy across evaluation conditions (Truth, False Belief, Deception).
+- [`fig2.png`](./figures/fig2.png) — accuracy by morphosyntactic source configuration.
+- [`fig3.png`](./figures/fig3.png) — confusion matrix showing counts and row-normalized percentages.
+- [`fig4.png`](./figures/fig4.png) — precision, recall, and F1-score breakdown.
+- [`graphical_abstract.png`](./figures/graphical_abstract.png) — graphical abstract illustrating the study design for Turkish evidentiality and deception detection.
 
 ## 🔬 Key Conclusions
 
