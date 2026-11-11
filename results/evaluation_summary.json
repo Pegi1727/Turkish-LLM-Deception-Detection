@@ -1,0 +1,288 @@
+{
+  "root_cause": "The is_correct flags were computed with a case-sensitive string comparison: ground_truth uses Truthful/Deceptive while prediction uses TRUTHFUL/DECEPTIVE. Label values agree after case normalization.",
+  "comparison": "strip + casefold; positive class = Deceptive",
+  "overall": {
+    "n": 1152,
+    "correct": 524,
+    "accuracy": 0.4548611111111111,
+    "accuracy_pct": 45.486111111111114,
+    "TP": 325,
+    "FP": 377,
+    "FN": 251,
+    "TN": 199,
+    "precision": 0.46296296296296297,
+    "recall": 0.5642361111111112,
+    "f1": 0.5086071987480438
+  },
+  "by_label_type": {
+    "Deception": {
+      "n": 380,
+      "correct": 174,
+      "accuracy": 0.45789473684210524,
+      "accuracy_pct": 45.78947368421053,
+      "TP": 109,
+      "FP": 125,
+      "FN": 81,
+      "TN": 65,
+      "precision": 0.4658119658119658,
+      "recall": 0.5736842105263158,
+      "f1": 0.5141509433962265
+    },
+    "False_Belief": {
+      "n": 380,
+      "correct": 177,
+      "accuracy": 0.46578947368421053,
+      "accuracy_pct": 46.578947368421055,
+      "TP": 110,
+      "FP": 123,
+      "FN": 80,
+      "TN": 67,
+      "precision": 0.4721030042918455,
+      "recall": 0.5789473684210527,
+      "f1": 0.5200945626477542
+    },
+    "Truth": {
+      "n": 392,
+      "correct": 173,
+      "accuracy": 0.4413265306122449,
+      "accuracy_pct": 44.13265306122449,
+      "TP": 106,
+      "FP": 129,
+      "FN": 90,
+      "TN": 67,
+      "precision": 0.451063829787234,
+      "recall": 0.5408163265306123,
+      "f1": 0.4918793503480278
+    }
+  },
+  "by_source_column": {
+    "FB_Dir_TR": {
+      "n": 288,
+      "correct": 3,
+      "accuracy": 0.010416666666666666,
+      "accuracy_pct": 1.0416666666666667,
+      "TP": 0,
+      "FP": 285,
+      "FN": 0,
+      "TN": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "L_Dir_TR": {
+      "n": 288,
+      "correct": 40,
+      "accuracy": 0.1388888888888889,
+      "accuracy_pct": 13.88888888888889,
+      "TP": 40,
+      "FP": 0,
+      "FN": 248,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.1388888888888889,
+      "f1": 0.24390243902439027
+    },
+    "L_Ind_TR": {
+      "n": 288,
+      "correct": 285,
+      "accuracy": 0.9895833333333334,
+      "accuracy_pct": 98.95833333333333,
+      "TP": 285,
+      "FP": 0,
+      "FN": 3,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.9895833333333334,
+      "f1": 0.9947643979057591
+    },
+    "T_Dir_TR": {
+      "n": 288,
+      "correct": 196,
+      "accuracy": 0.6805555555555556,
+      "accuracy_pct": 68.05555555555556,
+      "TP": 0,
+      "FP": 92,
+      "FN": 0,
+      "TN": 196,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "by_label_type_and_source_column": {
+    "Deception | FB_Dir_TR": {
+      "n": 95,
+      "correct": 1,
+      "accuracy": 0.010526315789473684,
+      "accuracy_pct": 1.0526315789473684,
+      "TP": 0,
+      "FP": 94,
+      "FN": 0,
+      "TN": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Deception | L_Dir_TR": {
+      "n": 95,
+      "correct": 16,
+      "accuracy": 0.16842105263157894,
+      "accuracy_pct": 16.842105263157894,
+      "TP": 16,
+      "FP": 0,
+      "FN": 79,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.16842105263157894,
+      "f1": 0.2882882882882883
+    },
+    "Deception | L_Ind_TR": {
+      "n": 95,
+      "correct": 93,
+      "accuracy": 0.9789473684210527,
+      "accuracy_pct": 97.89473684210526,
+      "TP": 93,
+      "FP": 0,
+      "FN": 2,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.9789473684210527,
+      "f1": 0.9893617021276596
+    },
+    "Deception | T_Dir_TR": {
+      "n": 95,
+      "correct": 64,
+      "accuracy": 0.6736842105263158,
+      "accuracy_pct": 67.36842105263158,
+      "TP": 0,
+      "FP": 31,
+      "FN": 0,
+      "TN": 64,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "False_Belief | FB_Dir_TR": {
+      "n": 95,
+      "correct": 1,
+      "accuracy": 0.010526315789473684,
+      "accuracy_pct": 1.0526315789473684,
+      "TP": 0,
+      "FP": 94,
+      "FN": 0,
+      "TN": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "False_Belief | L_Dir_TR": {
+      "n": 95,
+      "correct": 16,
+      "accuracy": 0.16842105263157894,
+      "accuracy_pct": 16.842105263157894,
+      "TP": 16,
+      "FP": 0,
+      "FN": 79,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.16842105263157894,
+      "f1": 0.2882882882882883
+    },
+    "False_Belief | L_Ind_TR": {
+      "n": 95,
+      "correct": 94,
+      "accuracy": 0.9894736842105263,
+      "accuracy_pct": 98.94736842105263,
+      "TP": 94,
+      "FP": 0,
+      "FN": 1,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.9894736842105263,
+      "f1": 0.9947089947089947
+    },
+    "False_Belief | T_Dir_TR": {
+      "n": 95,
+      "correct": 66,
+      "accuracy": 0.6947368421052632,
+      "accuracy_pct": 69.47368421052632,
+      "TP": 0,
+      "FP": 29,
+      "FN": 0,
+      "TN": 66,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Truth | FB_Dir_TR": {
+      "n": 98,
+      "correct": 1,
+      "accuracy": 0.01020408163265306,
+      "accuracy_pct": 1.0204081632653061,
+      "TP": 0,
+      "FP": 97,
+      "FN": 0,
+      "TN": 1,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    "Truth | L_Dir_TR": {
+      "n": 98,
+      "correct": 8,
+      "accuracy": 0.08163265306122448,
+      "accuracy_pct": 8.16326530612245,
+      "TP": 8,
+      "FP": 0,
+      "FN": 90,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 0.08163265306122448,
+      "f1": 0.15094339622641506
+    },
+    "Truth | L_Ind_TR": {
+      "n": 98,
+      "correct": 98,
+      "accuracy": 1.0,
+      "accuracy_pct": 100.0,
+      "TP": 98,
+      "FP": 0,
+      "FN": 0,
+      "TN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "Truth | T_Dir_TR": {
+      "n": 98,
+      "correct": 66,
+      "accuracy": 0.673469387755102,
+      "accuracy_pct": 67.34693877551021,
+      "TP": 0,
+      "FP": 32,
+      "FN": 0,
+      "TN": 66,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "confusion_matrix": {
+    "rows": "ground_truth",
+    "columns": "prediction",
+    "labels": [
+      "Truthful",
+      "Deceptive"
+    ],
+    "matrix": [
+      [
+        199,
+        377
+      ],
+      [
+        251,
+        325
+      ]
+    ]
+  }
+}

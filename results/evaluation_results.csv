@@ -1,0 +1,1153 @@
+﻿id,sentence,ground_truth,prediction,is_correct
+Unknown,Ali evde.,Truthful,TRUTHFUL,False
+Unknown,Ali evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ali evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Ali evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali işte.,Truthful,TRUTHFUL,False
+Unknown,Ali işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Ali işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Ali işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali parkta.,Truthful,TRUTHFUL,False
+Unknown,Ali parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Ali parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Ali parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Ali kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ali kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ali kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali hastanede.,Truthful,TRUTHFUL,False
+Unknown,Ali hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ali hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ali hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe evde.,Truthful,TRUTHFUL,False
+Unknown,Ayşe evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe işte.,Truthful,TRUTHFUL,False
+Unknown,Ayşe işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe parkta.,Truthful,TRUTHFUL,False
+Unknown,Ayşe parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Ayşe parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Ayşe kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe hastanede.,Truthful,TRUTHFUL,False
+Unknown,Ayşe hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet evde.,Truthful,DECEPTIVE,False
+Unknown,Mehmet evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet işte.,Truthful,DECEPTIVE,False
+Unknown,Mehmet işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet parkta.,Truthful,DECEPTIVE,False
+Unknown,Mehmet parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Mehmet parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Mehmet kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet hastanede.,Truthful,TRUTHFUL,False
+Unknown,Mehmet hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep evde.,Truthful,TRUTHFUL,False
+Unknown,Zeynep evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep işte.,Truthful,DECEPTIVE,False
+Unknown,Zeynep işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep parkta.,Truthful,DECEPTIVE,False
+Unknown,Zeynep parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Zeynep parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Zeynep kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep hastanede.,Truthful,TRUTHFUL,False
+Unknown,Zeynep hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can evde.,Truthful,DECEPTIVE,False
+Unknown,Can evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Can evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Can evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can işte.,Truthful,DECEPTIVE,False
+Unknown,Can işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Can işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Can işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can parkta.,Truthful,DECEPTIVE,False
+Unknown,Can parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Can parkta değil.,Deceptive,DECEPTIVE,False
+Unknown,Can parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can kütüphanede.,Truthful,DECEPTIVE,False
+Unknown,Can kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Can kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Can kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can hastanede.,Truthful,DECEPTIVE,False
+Unknown,Can hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Can hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Can hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif evde.,Truthful,TRUTHFUL,False
+Unknown,Elif evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Elif evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Elif evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif işte.,Truthful,TRUTHFUL,False
+Unknown,Elif işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Elif işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Elif işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif parkta.,Truthful,DECEPTIVE,False
+Unknown,Elif parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Elif parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Elif parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Elif kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Elif kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Elif kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif hastanede.,Truthful,TRUTHFUL,False
+Unknown,Elif hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Elif hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Elif hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre evde.,Truthful,TRUTHFUL,False
+Unknown,Emre evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Emre evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Emre evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre işte.,Truthful,TRUTHFUL,False
+Unknown,Emre işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Emre işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Emre işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre parkta.,Truthful,TRUTHFUL,False
+Unknown,Emre parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Emre parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Emre parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Emre kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Emre kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Emre kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre hastanede.,Truthful,TRUTHFUL,False
+Unknown,Emre hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Emre hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Emre hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne evde.,Truthful,TRUTHFUL,False
+Unknown,Defne evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Defne evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Defne evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne işte.,Truthful,TRUTHFUL,False
+Unknown,Defne işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Defne işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Defne işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne parkta.,Truthful,DECEPTIVE,False
+Unknown,Defne parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Defne parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Defne parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Defne kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Defne kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Defne kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne hastanede.,Truthful,TRUTHFUL,False
+Unknown,Defne hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Defne hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Defne hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert evde.,Truthful,TRUTHFUL,False
+Unknown,Mert evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mert evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Mert evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert işte.,Truthful,TRUTHFUL,False
+Unknown,Mert işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Mert işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Mert işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert parkta.,Truthful,DECEPTIVE,False
+Unknown,Mert parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Mert parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Mert parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Mert kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mert kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Mert kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert hastanede.,Truthful,TRUTHFUL,False
+Unknown,Mert hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Mert hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Mert hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece evde.,Truthful,DECEPTIVE,False
+Unknown,Ece evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ece evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Ece evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece işte.,Truthful,DECEPTIVE,False
+Unknown,Ece işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Ece işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Ece işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece parkta.,Truthful,DECEPTIVE,False
+Unknown,Ece parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Ece parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Ece parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Ece kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ece kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ece kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece hastanede.,Truthful,DECEPTIVE,False
+Unknown,Ece hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ece hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ece hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz evde.,Truthful,DECEPTIVE,False
+Unknown,Deniz evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Deniz evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Deniz evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz işte.,Truthful,TRUTHFUL,False
+Unknown,Deniz işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Deniz işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Deniz işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz parkta.,Truthful,TRUTHFUL,False
+Unknown,Deniz parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Deniz parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Deniz parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Deniz kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Deniz kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Deniz kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz hastanede.,Truthful,TRUTHFUL,False
+Unknown,Deniz hastanedeymiş.,Truthful,TRUTHFUL,False
+Unknown,Deniz hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Deniz hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak evde.,Truthful,TRUTHFUL,False
+Unknown,Burak evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Burak evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Burak evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak işte.,Truthful,TRUTHFUL,False
+Unknown,Burak işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Burak işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Burak işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak parkta.,Truthful,TRUTHFUL,False
+Unknown,Burak parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Burak parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Burak parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Burak kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Burak kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Burak kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak hastanede.,Truthful,TRUTHFUL,False
+Unknown,Burak hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Burak hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Burak hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin evde.,Truthful,TRUTHFUL,False
+Unknown,Selin evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Selin evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Selin evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin işte.,Truthful,DECEPTIVE,False
+Unknown,Selin işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Selin işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Selin işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin parkta.,Truthful,DECEPTIVE,False
+Unknown,Selin parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Selin parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Selin parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Selin kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Selin kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Selin kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin hastanede.,Truthful,TRUTHFUL,False
+Unknown,Selin hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Selin hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Selin hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem evde.,Truthful,DECEPTIVE,False
+Unknown,Cem evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Cem evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Cem evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem işte.,Truthful,DECEPTIVE,False
+Unknown,Cem işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Cem işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Cem işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem parkta.,Truthful,DECEPTIVE,False
+Unknown,Cem parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Cem parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Cem parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem kütüphanede.,Truthful,DECEPTIVE,False
+Unknown,Cem kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Cem kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Cem kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem hastanede.,Truthful,DECEPTIVE,False
+Unknown,Cem hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Cem hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Cem hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya evde.,Truthful,DECEPTIVE,False
+Unknown,Derya evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Derya evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Derya evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya işte.,Truthful,TRUTHFUL,False
+Unknown,Derya işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Derya işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Derya işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya parkta.,Truthful,DECEPTIVE,False
+Unknown,Derya parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Derya parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Derya parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Derya kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Derya kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Derya kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya hastanede.,Truthful,DECEPTIVE,False
+Unknown,Derya hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Derya hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Derya hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda evde.,Truthful,DECEPTIVE,False
+Unknown,Arda evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Arda evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Arda evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda işte.,Truthful,DECEPTIVE,False
+Unknown,Arda işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Arda işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Arda işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda parkta.,Truthful,DECEPTIVE,False
+Unknown,Arda parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Arda parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Arda parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Arda kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Arda kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Arda kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda hastanede.,Truthful,DECEPTIVE,False
+Unknown,Arda hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Arda hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Arda hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra evde.,Truthful,TRUTHFUL,False
+Unknown,Esra evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Esra evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Esra evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra işte.,Truthful,DECEPTIVE,False
+Unknown,Esra işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Esra işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Esra işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra parkta.,Truthful,DECEPTIVE,False
+Unknown,Esra parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Esra parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Esra parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Esra kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Esra kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Esra kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra hastanede.,Truthful,TRUTHFUL,False
+Unknown,Esra hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Esra hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Esra hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem evde.,Truthful,TRUTHFUL,False
+Unknown,Kerem evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kerem evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Kerem evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem işte.,Truthful,TRUTHFUL,False
+Unknown,Kerem işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Kerem işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Kerem işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem parkta.,Truthful,DECEPTIVE,False
+Unknown,Kerem parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Kerem parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Kerem parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Kerem kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kerem kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Kerem kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem hastanede.,Truthful,TRUTHFUL,False
+Unknown,Kerem hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kerem hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Kerem hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin evde.,Truthful,TRUTHFUL,False
+Unknown,Aylin evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aylin evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Aylin evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin işte.,Truthful,DECEPTIVE,False
+Unknown,Aylin işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Aylin işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Aylin işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin parkta.,Truthful,DECEPTIVE,False
+Unknown,Aylin parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Aylin parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Aylin parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Aylin kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aylin kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Aylin kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin hastanede.,Truthful,TRUTHFUL,False
+Unknown,Aylin hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aylin hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Aylin hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan evde.,Truthful,DECEPTIVE,False
+Unknown,Okan evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Okan evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Okan evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan işte.,Truthful,TRUTHFUL,False
+Unknown,Okan işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Okan işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Okan işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan parkta.,Truthful,DECEPTIVE,False
+Unknown,Okan parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Okan parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Okan parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Okan kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Okan kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Okan kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan hastanede.,Truthful,TRUTHFUL,False
+Unknown,Okan hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Okan hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Okan hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda evde.,Truthful,DECEPTIVE,False
+Unknown,Seda evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Seda evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Seda evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda işte.,Truthful,DECEPTIVE,False
+Unknown,Seda işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Seda işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Seda işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda parkta.,Truthful,DECEPTIVE,False
+Unknown,Seda parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Seda parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Seda parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Seda kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Seda kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Seda kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda hastanede.,Truthful,TRUTHFUL,False
+Unknown,Seda hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Seda hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Seda hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Umut evde.,Truthful,DECEPTIVE,False
+Unknown,Umut evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Umut evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Umut evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Umut işte.,Truthful,TRUTHFUL,False
+Unknown,Umut işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Umut işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Umut işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Umut parkta.,Truthful,DECEPTIVE,False
+Unknown,Umut parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Umut parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Umut parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Umut kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Umut kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Umut kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Umut kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Umut hastanede.,Truthful,DECEPTIVE,False
+Unknown,Umut hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Umut hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Umut hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Bora evde.,Truthful,DECEPTIVE,False
+Unknown,Bora evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Bora evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Bora evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Bora işte.,Truthful,DECEPTIVE,False
+Unknown,Bora işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Bora işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Bora işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Bora parkta.,Truthful,DECEPTIVE,False
+Unknown,Bora parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Bora parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Bora parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Bora kütüphanede.,Truthful,DECEPTIVE,False
+Unknown,Bora kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Bora kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Bora kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Bora hastanede.,Truthful,TRUTHFUL,False
+Unknown,Bora hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Bora hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Bora hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,İrem evde.,Truthful,TRUTHFUL,False
+Unknown,İrem evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,İrem evde değil.,Deceptive,TRUTHFUL,False
+Unknown,İrem evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,İrem işte.,Truthful,TRUTHFUL,False
+Unknown,İrem işteymiş.,Truthful,DECEPTIVE,False
+Unknown,İrem işte değil.,Deceptive,TRUTHFUL,False
+Unknown,İrem işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,İrem parkta.,Truthful,TRUTHFUL,False
+Unknown,İrem parktaymış.,Truthful,DECEPTIVE,False
+Unknown,İrem parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,İrem parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,İrem kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,İrem kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,İrem kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,İrem kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,İrem hastanede.,Truthful,TRUTHFUL,False
+Unknown,İrem hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,İrem hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,İrem hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Onur evde.,Truthful,DECEPTIVE,False
+Unknown,Onur evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Onur evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Onur evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Onur işte.,Truthful,TRUTHFUL,False
+Unknown,Onur işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Onur işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Onur işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Onur parkta.,Truthful,DECEPTIVE,False
+Unknown,Onur parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Onur parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Onur parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Onur kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Onur kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Onur kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Onur kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Onur hastanede.,Truthful,TRUTHFUL,False
+Unknown,Onur hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Onur hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Onur hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem evde.,Truthful,DECEPTIVE,False
+Unknown,Gizem evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Gizem evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Gizem evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem işte.,Truthful,TRUTHFUL,False
+Unknown,Gizem işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Gizem işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Gizem işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem parkta.,Truthful,DECEPTIVE,False
+Unknown,Gizem parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Gizem parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Gizem parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Gizem kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Gizem kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Gizem kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem hastanede.,Truthful,DECEPTIVE,False
+Unknown,Gizem hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Gizem hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Gizem hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan evde.,Truthful,DECEPTIVE,False
+Unknown,Kaan evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kaan evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Kaan evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan işte.,Truthful,DECEPTIVE,False
+Unknown,Kaan işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Kaan işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Kaan işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan parkta.,Truthful,DECEPTIVE,False
+Unknown,Kaan parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Kaan parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Kaan parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan kütüphanede.,Truthful,DECEPTIVE,False
+Unknown,Kaan kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kaan kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Kaan kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan hastanede.,Truthful,TRUTHFUL,False
+Unknown,Kaan hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Kaan hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Kaan hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı evde.,Truthful,TRUTHFUL,False
+Unknown,Aslı evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aslı evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Aslı evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı işte.,Truthful,TRUTHFUL,False
+Unknown,Aslı işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Aslı işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Aslı işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı parkta.,Truthful,DECEPTIVE,False
+Unknown,Aslı parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Aslı parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Aslı parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Aslı kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aslı kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Aslı kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı hastanede.,Truthful,DECEPTIVE,False
+Unknown,Aslı hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Aslı hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Aslı hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Barış evde.,Truthful,DECEPTIVE,False
+Unknown,Barış evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Barış evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Barış evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Barış işte.,Truthful,TRUTHFUL,False
+Unknown,Barış işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Barış işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Barış işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Barış parkta.,Truthful,DECEPTIVE,False
+Unknown,Barış parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Barış parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Barış parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Barış kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Barış kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Barış kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Barış kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Barış hastanede.,Truthful,TRUTHFUL,False
+Unknown,Barış hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Barış hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Barış hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren evde.,Truthful,TRUTHFUL,False
+Unknown,Ceren evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ceren evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Ceren evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren işte.,Truthful,TRUTHFUL,False
+Unknown,Ceren işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Ceren işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Ceren işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren parkta.,Truthful,TRUTHFUL,False
+Unknown,Ceren parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Ceren parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Ceren parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Ceren kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ceren kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ceren kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren hastanede.,Truthful,TRUTHFUL,False
+Unknown,Ceren hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Ceren hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Ceren hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Tolga evde.,Truthful,DECEPTIVE,False
+Unknown,Tolga evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Tolga evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Tolga evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Tolga işte.,Truthful,DECEPTIVE,False
+Unknown,Tolga işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Tolga işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Tolga işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Tolga parkta.,Truthful,DECEPTIVE,False
+Unknown,Tolga parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Tolga parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Tolga parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Tolga kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Tolga kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Tolga kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Tolga kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Tolga hastanede.,Truthful,TRUTHFUL,False
+Unknown,Tolga hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Tolga hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Tolga hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Melis evde.,Truthful,TRUTHFUL,False
+Unknown,Melis evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Melis evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Melis evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Melis işte.,Truthful,TRUTHFUL,False
+Unknown,Melis işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Melis işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Melis işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Melis parkta.,Truthful,DECEPTIVE,False
+Unknown,Melis parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Melis parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Melis parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Melis kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Melis kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Melis kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Melis kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Melis hastanede.,Truthful,TRUTHFUL,False
+Unknown,Melis hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Melis hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Melis hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Eren evde.,Truthful,TRUTHFUL,False
+Unknown,Eren evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Eren evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Eren evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Eren işte.,Truthful,DECEPTIVE,False
+Unknown,Eren işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Eren işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Eren işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Eren parkta.,Truthful,TRUTHFUL,False
+Unknown,Eren parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Eren parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Eren parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Eren kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Eren kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Eren kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Eren kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Eren hastanede.,Truthful,TRUTHFUL,False
+Unknown,Eren hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Eren hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Eren hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Nisan evde.,Truthful,DECEPTIVE,False
+Unknown,Nisan evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Nisan evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Nisan evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Nisan işte.,Truthful,DECEPTIVE,False
+Unknown,Nisan işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Nisan işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Nisan işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Nisan parkta.,Truthful,DECEPTIVE,False
+Unknown,Nisan parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Nisan parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Nisan parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Nisan kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Nisan kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Nisan kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Nisan kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Nisan hastanede.,Truthful,DECEPTIVE,False
+Unknown,Nisan hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Nisan hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Nisan hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Serkan evde.,Truthful,TRUTHFUL,False
+Unknown,Serkan evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Serkan evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Serkan evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Serkan işte.,Truthful,TRUTHFUL,False
+Unknown,Serkan işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Serkan işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Serkan işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Serkan parkta.,Truthful,DECEPTIVE,False
+Unknown,Serkan parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Serkan parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Serkan parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Serkan kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Serkan kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Serkan kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Serkan kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Serkan hastanede.,Truthful,TRUTHFUL,False
+Unknown,Serkan hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Serkan hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Serkan hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Pelin evde.,Truthful,DECEPTIVE,False
+Unknown,Pelin evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Pelin evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Pelin evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Pelin işte.,Truthful,DECEPTIVE,False
+Unknown,Pelin işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Pelin işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Pelin işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Pelin parkta.,Truthful,DECEPTIVE,False
+Unknown,Pelin parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Pelin parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Pelin parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Pelin kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Pelin kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Pelin kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Pelin kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Pelin hastanede.,Truthful,TRUTHFUL,False
+Unknown,Pelin hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Pelin hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Pelin hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Fırat evde.,Truthful,DECEPTIVE,False
+Unknown,Fırat evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Fırat evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Fırat evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Fırat işte.,Truthful,TRUTHFUL,False
+Unknown,Fırat işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Fırat işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Fırat işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Fırat parkta.,Truthful,TRUTHFUL,False
+Unknown,Fırat parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Fırat parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Fırat parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Fırat kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Fırat kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Fırat kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Fırat kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Fırat hastanede.,Truthful,DECEPTIVE,False
+Unknown,Fırat hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Fırat hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Fırat hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Naz evde.,Truthful,DECEPTIVE,False
+Unknown,Naz evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Naz evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Naz evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Naz işte.,Truthful,DECEPTIVE,False
+Unknown,Naz işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Naz işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Naz işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Naz parkta.,Truthful,DECEPTIVE,False
+Unknown,Naz parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Naz parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Naz parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Naz kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Naz kütüphanedeymiş.,Truthful,TRUTHFUL,False
+Unknown,Naz kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Naz kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Naz hastanede.,Truthful,TRUTHFUL,False
+Unknown,Naz hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Naz hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Naz hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Levent evde.,Truthful,DECEPTIVE,False
+Unknown,Levent evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Levent evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Levent evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Levent işte.,Truthful,DECEPTIVE,False
+Unknown,Levent işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Levent işte değil.,Deceptive,DECEPTIVE,False
+Unknown,Levent işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Levent parkta.,Truthful,DECEPTIVE,False
+Unknown,Levent parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Levent parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Levent parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Levent kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Levent kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Levent kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Levent kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Levent hastanede.,Truthful,TRUTHFUL,False
+Unknown,Levent hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Levent hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Levent hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Banu evde.,Truthful,TRUTHFUL,False
+Unknown,Banu evdeymiş.,Truthful,DECEPTIVE,False
+Unknown,Banu evde değil.,Deceptive,TRUTHFUL,False
+Unknown,Banu evde değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Banu işte.,Truthful,DECEPTIVE,False
+Unknown,Banu işteymiş.,Truthful,DECEPTIVE,False
+Unknown,Banu işte değil.,Deceptive,TRUTHFUL,False
+Unknown,Banu işte değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Banu parkta.,Truthful,DECEPTIVE,False
+Unknown,Banu parktaymış.,Truthful,DECEPTIVE,False
+Unknown,Banu parkta değil.,Deceptive,TRUTHFUL,False
+Unknown,Banu parkta değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Banu kütüphanede.,Truthful,TRUTHFUL,False
+Unknown,Banu kütüphanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Banu kütüphanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Banu kütüphanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Banu hastanede.,Truthful,TRUTHFUL,False
+Unknown,Banu hastanedeymiş.,Truthful,DECEPTIVE,False
+Unknown,Banu hastanede değil.,Deceptive,TRUTHFUL,False
+Unknown,Banu hastanede değilmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali mutlu.,Truthful,TRUTHFUL,False
+Unknown,Ali mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Ali üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Ali üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Ali yorgun.,Truthful,TRUTHFUL,False
+Unknown,Ali yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Ali dinç.,Deceptive,TRUTHFUL,False
+Unknown,Ali dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ali sakin.,Truthful,TRUTHFUL,False
+Unknown,Ali sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Ali gergin.,Deceptive,TRUTHFUL,False
+Unknown,Ali gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe mutlu.,Truthful,TRUTHFUL,False
+Unknown,Ayşe mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe yorgun.,Truthful,TRUTHFUL,False
+Unknown,Ayşe yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe dinç.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ayşe sakin.,Truthful,TRUTHFUL,False
+Unknown,Ayşe sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Ayşe gergin.,Deceptive,TRUTHFUL,False
+Unknown,Ayşe gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet mutlu.,Truthful,TRUTHFUL,False
+Unknown,Mehmet mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Mehmet üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet yorgun.,Truthful,TRUTHFUL,False
+Unknown,Mehmet yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet dinç.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet sakin.,Truthful,TRUTHFUL,False
+Unknown,Mehmet sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Mehmet gergin.,Deceptive,DECEPTIVE,False
+Unknown,Mehmet gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep mutlu.,Truthful,TRUTHFUL,False
+Unknown,Zeynep mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep yorgun.,Truthful,TRUTHFUL,False
+Unknown,Zeynep yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep dinç.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Zeynep sakin.,Truthful,TRUTHFUL,False
+Unknown,Zeynep sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Zeynep gergin.,Deceptive,TRUTHFUL,False
+Unknown,Zeynep gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can mutlu.,Truthful,DECEPTIVE,False
+Unknown,Can mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Can üzgün.,Deceptive,DECEPTIVE,False
+Unknown,Can üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Can yorgun.,Truthful,DECEPTIVE,False
+Unknown,Can yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Can dinç.,Deceptive,DECEPTIVE,False
+Unknown,Can dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Can sakin.,Truthful,DECEPTIVE,False
+Unknown,Can sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Can gergin.,Deceptive,DECEPTIVE,False
+Unknown,Can gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif mutlu.,Truthful,TRUTHFUL,False
+Unknown,Elif mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Elif üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Elif üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Elif yorgun.,Truthful,TRUTHFUL,False
+Unknown,Elif yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Elif dinç.,Deceptive,DECEPTIVE,False
+Unknown,Elif dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Elif sakin.,Truthful,TRUTHFUL,False
+Unknown,Elif sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Elif gergin.,Deceptive,DECEPTIVE,False
+Unknown,Elif gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre mutlu.,Truthful,TRUTHFUL,False
+Unknown,Emre mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Emre üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Emre üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Emre yorgun.,Truthful,TRUTHFUL,False
+Unknown,Emre yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Emre dinç.,Deceptive,DECEPTIVE,False
+Unknown,Emre dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Emre sakin.,Truthful,TRUTHFUL,False
+Unknown,Emre sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Emre gergin.,Deceptive,TRUTHFUL,False
+Unknown,Emre gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne mutlu.,Truthful,TRUTHFUL,False
+Unknown,Defne mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Defne üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Defne üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Defne yorgun.,Truthful,TRUTHFUL,False
+Unknown,Defne yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Defne dinç.,Deceptive,DECEPTIVE,False
+Unknown,Defne dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Defne sakin.,Truthful,TRUTHFUL,False
+Unknown,Defne sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Defne gergin.,Deceptive,TRUTHFUL,False
+Unknown,Defne gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert mutlu.,Truthful,TRUTHFUL,False
+Unknown,Mert mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Mert üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Mert üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Mert yorgun.,Truthful,TRUTHFUL,False
+Unknown,Mert yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Mert dinç.,Deceptive,TRUTHFUL,False
+Unknown,Mert dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Mert sakin.,Truthful,TRUTHFUL,False
+Unknown,Mert sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Mert gergin.,Deceptive,DECEPTIVE,False
+Unknown,Mert gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece mutlu.,Truthful,TRUTHFUL,False
+Unknown,Ece mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Ece üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Ece üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Ece yorgun.,Truthful,TRUTHFUL,False
+Unknown,Ece yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Ece dinç.,Deceptive,DECEPTIVE,False
+Unknown,Ece dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Ece sakin.,Truthful,TRUTHFUL,False
+Unknown,Ece sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Ece gergin.,Deceptive,DECEPTIVE,False
+Unknown,Ece gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz mutlu.,Truthful,TRUTHFUL,False
+Unknown,Deniz mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Deniz üzgün.,Deceptive,DECEPTIVE,False
+Unknown,Deniz üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz yorgun.,Truthful,TRUTHFUL,False
+Unknown,Deniz yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Deniz dinç.,Deceptive,TRUTHFUL,False
+Unknown,Deniz dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Deniz sakin.,Truthful,TRUTHFUL,False
+Unknown,Deniz sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Deniz gergin.,Deceptive,TRUTHFUL,False
+Unknown,Deniz gerginmiş.,Deceptive,TRUTHFUL,False
+Unknown,Burak mutlu.,Truthful,TRUTHFUL,False
+Unknown,Burak mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Burak üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Burak üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Burak yorgun.,Truthful,TRUTHFUL,False
+Unknown,Burak yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Burak dinç.,Deceptive,TRUTHFUL,False
+Unknown,Burak dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Burak sakin.,Truthful,TRUTHFUL,False
+Unknown,Burak sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Burak gergin.,Deceptive,TRUTHFUL,False
+Unknown,Burak gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin mutlu.,Truthful,TRUTHFUL,False
+Unknown,Selin mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Selin üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Selin üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Selin yorgun.,Truthful,TRUTHFUL,False
+Unknown,Selin yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Selin dinç.,Deceptive,TRUTHFUL,False
+Unknown,Selin dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Selin sakin.,Truthful,TRUTHFUL,False
+Unknown,Selin sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Selin gergin.,Deceptive,DECEPTIVE,False
+Unknown,Selin gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem mutlu.,Truthful,TRUTHFUL,False
+Unknown,Cem mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Cem üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Cem üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Cem yorgun.,Truthful,DECEPTIVE,False
+Unknown,Cem yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Cem dinç.,Deceptive,DECEPTIVE,False
+Unknown,Cem dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Cem sakin.,Truthful,TRUTHFUL,False
+Unknown,Cem sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Cem gergin.,Deceptive,DECEPTIVE,False
+Unknown,Cem gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya mutlu.,Truthful,TRUTHFUL,False
+Unknown,Derya mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Derya üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Derya üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Derya yorgun.,Truthful,TRUTHFUL,False
+Unknown,Derya yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Derya dinç.,Deceptive,TRUTHFUL,False
+Unknown,Derya dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Derya sakin.,Truthful,TRUTHFUL,False
+Unknown,Derya sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Derya gergin.,Deceptive,DECEPTIVE,False
+Unknown,Derya gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda mutlu.,Truthful,TRUTHFUL,False
+Unknown,Arda mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Arda üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Arda üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Arda yorgun.,Truthful,TRUTHFUL,False
+Unknown,Arda yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Arda dinç.,Deceptive,DECEPTIVE,False
+Unknown,Arda dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Arda sakin.,Truthful,TRUTHFUL,False
+Unknown,Arda sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Arda gergin.,Deceptive,DECEPTIVE,False
+Unknown,Arda gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra mutlu.,Truthful,TRUTHFUL,False
+Unknown,Esra mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Esra üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Esra üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Esra yorgun.,Truthful,TRUTHFUL,False
+Unknown,Esra yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Esra dinç.,Deceptive,DECEPTIVE,False
+Unknown,Esra dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Esra sakin.,Truthful,TRUTHFUL,False
+Unknown,Esra sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Esra gergin.,Deceptive,DECEPTIVE,False
+Unknown,Esra gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem mutlu.,Truthful,TRUTHFUL,False
+Unknown,Kerem mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Kerem üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Kerem üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem yorgun.,Truthful,TRUTHFUL,False
+Unknown,Kerem yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Kerem dinç.,Deceptive,DECEPTIVE,False
+Unknown,Kerem dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Kerem sakin.,Truthful,TRUTHFUL,False
+Unknown,Kerem sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Kerem gergin.,Deceptive,TRUTHFUL,False
+Unknown,Kerem gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin mutlu.,Truthful,TRUTHFUL,False
+Unknown,Aylin mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Aylin üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Aylin üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin yorgun.,Truthful,TRUTHFUL,False
+Unknown,Aylin yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Aylin dinç.,Deceptive,TRUTHFUL,False
+Unknown,Aylin dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Aylin sakin.,Truthful,TRUTHFUL,False
+Unknown,Aylin sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Aylin gergin.,Deceptive,DECEPTIVE,False
+Unknown,Aylin gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan mutlu.,Truthful,TRUTHFUL,False
+Unknown,Okan mutluymuş.,Truthful,DECEPTIVE,False
+Unknown,Okan üzgün.,Deceptive,TRUTHFUL,False
+Unknown,Okan üzgünmüş.,Deceptive,DECEPTIVE,False
+Unknown,Okan yorgun.,Truthful,TRUTHFUL,False
+Unknown,Okan yorgunmuş.,Truthful,DECEPTIVE,False
+Unknown,Okan dinç.,Deceptive,DECEPTIVE,False
+Unknown,Okan dinçmiş.,Deceptive,DECEPTIVE,False
+Unknown,Okan sakin.,Truthful,TRUTHFUL,False
+Unknown,Okan sakinmiş.,Truthful,DECEPTIVE,False
+Unknown,Okan gergin.,Deceptive,DECEPTIVE,False
+Unknown,Okan gerginmiş.,Deceptive,DECEPTIVE,False
+Unknown,Seda çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Seda çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Seda dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Seda dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Seda yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Seda yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Seda kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Seda kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Seda koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Seda koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Seda yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Seda yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Umut çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Umut çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Umut dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Umut dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Umut yemek yapıyor.,Truthful,DECEPTIVE,False
+Unknown,Umut yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Umut kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Umut kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Umut koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Umut koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Umut yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Umut yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Bora çalışıyor.,Truthful,DECEPTIVE,False
+Unknown,Bora çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Bora dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Bora dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Bora yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Bora yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Bora kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Bora kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Bora koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Bora koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Bora yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Bora yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,İrem çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,İrem çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,İrem dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,İrem dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,İrem yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,İrem yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,İrem kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,İrem kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,İrem koşuyor.,Truthful,TRUTHFUL,False
+Unknown,İrem koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,İrem yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,İrem yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Onur çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Onur çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Onur dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Onur dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Onur yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Onur yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Onur kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Onur kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Onur koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Onur koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Onur yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Onur yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Gizem çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Gizem dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Gizem dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Gizem yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Gizem yemek yapıyormuş.,Truthful,TRUTHFUL,False
+Unknown,Gizem kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Gizem kitap okuyormuş.,Deceptive,TRUTHFUL,False
+Unknown,Gizem koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Gizem koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Gizem yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Gizem yürüyormuş.,Deceptive,TRUTHFUL,False
+Unknown,Kaan çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Kaan çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Kaan dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Kaan dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Kaan yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Kaan kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Kaan kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Kaan koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Kaan koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Kaan yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Kaan yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Aslı çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Aslı dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Aslı dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Aslı yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Aslı kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Aslı kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Aslı koşuyor.,Truthful,TRUTHFUL,False
+Unknown,Aslı koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Aslı yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Aslı yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Barış çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Barış çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Barış dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Barış dinleniyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Barış yemek yapıyor.,Truthful,TRUTHFUL,False
+Unknown,Barış yemek yapıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Barış kitap okuyor.,Deceptive,TRUTHFUL,False
+Unknown,Barış kitap okuyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Barış koşuyor.,Truthful,DECEPTIVE,False
+Unknown,Barış koşuyormuş.,Truthful,DECEPTIVE,False
+Unknown,Barış yürüyor.,Deceptive,TRUTHFUL,False
+Unknown,Barış yürüyormuş.,Deceptive,DECEPTIVE,False
+Unknown,Ceren çalışıyor.,Truthful,TRUTHFUL,False
+Unknown,Ceren çalışıyormuş.,Truthful,DECEPTIVE,False
+Unknown,Ceren dinleniyor.,Deceptive,TRUTHFUL,False
+Unknown,Ceren dinleniyormuş.,Deceptive,DECEPTIVE,False
