@@ -51,16 +51,15 @@ Based on the corrected evaluation audit logs (`evaluation_results_corrected.csv`
 | Truth | 392 | 44.13% | 0.492 |
 
 ---
-
 ## 📈 Figures
 
-Diagnostic figures generated from the corrected evaluation logs are stored in the [`figures/`](./figures) directory:
+Diagnostic figures generated from the corrected evaluation logs are stored in the root directory:
 
-- [`fig1_accuracy_by_source_condition.png`](./figures/fig1_accuracy_by_source_condition.png) — accuracy across source conditions, showing the 1.04%–98.96% spread.
-- [`fig2_confusion_matrix_overall.png`](./figures/fig2_confusion_matrix_overall.png) — aggregated confusion matrix (TP 325, FP 377, FN 251, TN 199).
-- [`fig3_label_type_breakdown.png`](./figures/fig3_label_type_breakdown.png) — accuracy and F1 by label type (Deception, False_Belief, Truth).
-
----
+- [`fig1.png`](./fig1.png) — accuracy across evaluation conditions (Truth, False Belief, Deception).
+- [`fig2.png`](./fig2.png) — accuracy by morphosyntactic source configuration.
+- [`fig3.png`](./fig3.png) — confusion matrix showing counts and row-normalized percentages.
+- [`fig4.png`](./fig4.png) — precision, recall, and F1-score breakdown.
+- [`graphical_abstract.png`](./graphical_abstract.png) — graphical abstract illustrating the study design for Turkish evidentiality and deception detection.
 
 ## 🔬 Key Conclusions
 
